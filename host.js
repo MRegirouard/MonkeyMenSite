@@ -5,6 +5,12 @@ const fs = require('fs')
 const port = process.env.PORT || 80
 const indexFile = 'index.html'
 
+function do404(res)
+{
+    res.writeHead(404)
+    res.end('Not found')
+}
+
  // Read the main page file
 fs.readFile(indexFile, (err, data) =>
 {
@@ -27,8 +33,7 @@ fs.readFile(indexFile, (err, data) =>
         else
         {
             console.debug('[ WARN ] Error 404:', req.url)
-            res.writeHead(404)
-            res.end('Not found')
+            do404(res)
         }
     })
 
