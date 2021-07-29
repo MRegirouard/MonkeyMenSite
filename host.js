@@ -4,11 +4,25 @@ const fs = require('fs')
 // Run with "PORT=8081 node host.js" to use a port other than 80
 const port = process.env.PORT || 80
 const indexFile = 'index.html'
+const error404File = '404.html'
+var error404Response
+
+fs.readFile(error404File, (err, data) =>
+{
+    if (err)
+        console.error('[ FAIL ] Error reading 404 file:', err)
+    else
+        error404Response = data
+})
 
 function do404(res)
 {
-    res.writeHead(404)
-    res.end('Not found')
+    res.writeHead(404, { 'Content-Type': 'text/html' })
+
+    if (error404Response == null)
+        res.end('Not found')
+    else
+        res.end(error404Response)
 }
 
 function getImage(req)
