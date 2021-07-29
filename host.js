@@ -11,6 +11,40 @@ function do404(res)
     res.end('Not found')
 }
 
+function getImage(req)
+{
+    return new Promise((resolve, reject) =>
+    {
+        const baseFileName = req.url.substring(9, req.url.length - 4)
+
+        if (baseFileName.length <= 0 || baseFileName.length > 4)
+            return reject('Invalid file name length')
+
+        const imageNum = parseFloat(baseFileName)
+
+        if (isNaN(imageNum) || imageNum < 0 || imageNum > 4999)
+            return reject('Invalid image number')
+
+        const filePath = './images/' + baseFileName + '.png'
+
+        fs.access(filePath, fs.constants.R_OK, (err) =>
+        {
+            if (err)
+                reject('Unable to access image ' + filePath)
+            else
+            {
+                fs.readFile(filePath, (err, data) =>
+                {
+                    if (err)
+                        reject('Unable to read image ' + filePath)
+                    else
+                        resolve(data)
+                })
+            }
+        })
+    })
+}
+
  // Read the main page file
 fs.readFile(indexFile, (err, data) =>
 {
@@ -29,6 +63,19 @@ fs.readFile(indexFile, (err, data) =>
         {
             res.writeHead(200, { 'Content-Type': 'text/html' })
             res.end(data)
+        }
+        else if (req.url.startsWith('/monkeys/') && req.url.endsWith('.png'))
+        {
+            getImage(req, res).then((data) =>
+            {
+                res.writeHead(200, { 'Content-Type': 'image/png' })
+                res.end(data)
+            }).catch((err) =>
+            {
+                console.debug('[ WARN ] Error getting image at', req.url, ':', err)
+                console.debug('[ WARN ] Error 404:', req.url)
+                do404(res)
+            })
         }
         else
         {
