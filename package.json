@@ -1,0 +1,30 @@
+{
+  "name": "monkeymensite",
+  "version": "1.0.0",
+  "description": "A website for my Monkey Men collection on OpenSea.",
+  "main": "host.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRegirouard/MonkeyMenSite.git"
+  },
+  "keywords": [
+    "Monkey",
+    "Men",
+    "OpenSea",
+    "NFT",
+    "crypto",
+    "web",
+    "website",
+    "html",
+    "host"
+  ],
+  "author": "Ethan Girouard",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MRegirouard/MonkeyMenSite/issues"
+  },
+  "homepage": "https://github.com/MRegirouard/MonkeyMenSite#readme"
+}
