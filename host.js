@@ -59,6 +59,40 @@ function getImage(req)
     })
 }
 
+function getData(req)
+{
+    return new Promise((resolve, reject) =>
+    {
+        const baseFileName = req.url.substring(10, req.url.length - 5)
+
+        if (baseFileName.length <= 0 || baseFileName.length > 4)
+            return reject('Invalid file name length')
+
+        const imageNum = parseFloat(baseFileName)
+
+        if (isNaN(imageNum) || imageNum < 0 || imageNum > 4999)
+            return reject('Invalid data file number')
+
+        const filePath = './metadata/' + baseFileName + '.json'
+
+        fs.access(filePath, fs.constants.R_OK, (err) =>
+        {
+            if (err)
+                reject('Unable to access data file ' + filePath)
+            else
+            {
+                fs.readFile(filePath, (err, data) =>
+                {
+                    if (err)
+                        reject('Unable to read data file ' + filePath)
+                    else
+                        resolve(data)
+                })
+            }
+        })
+    })
+}
+
  // Read the main page file
 fs.readFile(indexFile, (err, data) =>
 {
@@ -87,6 +121,19 @@ fs.readFile(indexFile, (err, data) =>
             }).catch((err) =>
             {
                 console.debug('[ WARN ] Error getting image at', req.url, ':', err)
+                console.debug('[ WARN ] Error 404:', req.url)
+                do404(res)
+            })
+        }
+        else if (req.url.startsWith('/metadata/') && req.url.endsWith('.json'))
+        {
+            getData(req).then((data) =>
+            {
+                res.writeHead(200, { 'Content-Type': 'application/json' })
+                res.end(data)
+            }).catch((err) =>
+            {
+                console.debug('[ WARN ] Error getting data at', req.url, ':', err)
                 console.debug('[ WARN ] Error 404:', req.url)
                 do404(res)
             })
