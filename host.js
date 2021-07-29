@@ -6,6 +6,8 @@ const port = process.env.PORT || 80
 const indexFile = 'index.html'
 const error404File = '404.html'
 var error404Response
+const iconFile = "MonkeyHead.ico"
+var icon
 
 fs.readFile(error404File, (err, data) =>
 {
@@ -13,6 +15,14 @@ fs.readFile(error404File, (err, data) =>
         console.error('[ FAIL ] Error reading 404 file:', err)
     else
         error404Response = data
+})
+
+fs.readFile(iconFile, (err, data) =>
+{
+    if (err)
+        console.error('[ FAIL ] Error reading icon file:', err)
+    else
+        icon = data
 })
 
 function do404(res)
@@ -111,6 +121,20 @@ fs.readFile(indexFile, (err, data) =>
         {
             res.writeHead(200, { 'Content-Type': 'text/html' })
             res.end(data)
+        }
+        else if (req.url === '/favicon.ico')
+        {
+            if (icon == null)
+            {
+                console.error('[ FAIL ] Icon image not loaded.')
+                console.debug('[ WARN ] Error 404:', req.url)
+                do404(res)
+            }
+            else
+            {
+                res.writeHead(200, { 'Content-Type': 'image/x-icon' })
+                res.end(icon)
+            }
         }
         else if (req.url.startsWith('/monkeys/') && req.url.endsWith('.png'))
         {
