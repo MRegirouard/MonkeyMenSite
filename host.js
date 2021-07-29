@@ -18,9 +18,18 @@ fs.readFile(indexFile, (err, data) =>
     const server = http.createServer((req, res) =>
     {
         console.debug('[  OK  ] Received connection. URL:', req.url)
-        
-        res.writeHead(200, { 'Content-Type': 'text/html' })
-        res.end(data)
+
+        if (req.url === '/')
+        {
+            res.writeHead(200, { 'Content-Type': 'text/html' })
+            res.end(data)
+        }
+        else
+        {
+            console.debug('[ WARN ] Error 404:', req.url)
+            res.writeHead(404)
+            res.end('Not found')
+        }
     })
 
     // Listen for requests
