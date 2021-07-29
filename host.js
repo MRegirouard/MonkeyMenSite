@@ -114,7 +114,7 @@ fs.readFile(indexFile, (err, data) =>
         }
         else if (req.url.startsWith('/monkeys/') && req.url.endsWith('.png'))
         {
-            getImage(req, res).then((data) =>
+            getImage(req).then((data) =>
             {
                 res.writeHead(200, { 'Content-Type': 'image/png' })
                 res.end(data)
