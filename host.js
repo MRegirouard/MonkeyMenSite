@@ -1,5 +1,6 @@
 const http = require('http')
 const fs = require('fs')
+const sqlite3 = require('sqlite3').verbose()
 
 // Run with "PORT=8081 node host.js" to use a port other than 80
 const port = process.env.PORT || 80
