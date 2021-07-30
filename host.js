@@ -11,6 +11,10 @@ const iconFile = "MonkeyHead.ico"
 var icon
 var visitorCount = 0
 
+const dbPath = './Visitors.db'
+const db = new sqlite3.Database(dbPath)
+db.run('CREATE TABLE IF NOT EXISTS visitors (address TEXT PRIMARY KEY, visits INT)')
+
 console.debug('[  OK  ] Starting server...')
 
 fs.readFile(error404File, (err, data) =>
