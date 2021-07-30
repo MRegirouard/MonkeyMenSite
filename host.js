@@ -9,6 +9,8 @@ var error404Response
 const iconFile = "MonkeyHead.ico"
 var icon
 
+console.debug('[  OK  ] Starting server...')
+
 fs.readFile(error404File, (err, data) =>
 {
     if (err)
