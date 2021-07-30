@@ -35,6 +35,42 @@ function do404(res)
         res.end(error404Response)
 }
 
+
+function getRandomImage()
+{
+    return new Promise((resolve, reject) =>
+    {
+        fs.readdir('./images', (err, files) =>
+        {
+            if (err)
+            {
+                console.error('[ FAIL ] Error reading images directory:', err)
+                return reject('Unable to read image directory.')
+            }
+            else if (files.length == 0)
+            {
+                console.error('[ FAIL ] No image files found.')
+                return reject('No image files found.')
+            }
+            else
+            {
+                const randFile = files[Math.floor(Math.random() * files.length)]
+
+                fs.readFile('./images/' + randFile, (err, data) =>
+                {
+                    if (err)
+                    {
+                        console.error('[ FAIL ] Error reading image:', err)
+                        return reject('Unable to read image.')
+                    }
+                    else
+                        resolve(data)
+                })
+            }
+        })
+    })
+}
+
 function getImage(req)
 {
     return new Promise((resolve, reject) =>
@@ -121,6 +157,20 @@ fs.readFile(indexFile, (err, data) =>
         {
             res.writeHead(200, { 'Content-Type': 'text/html' })
             res.end(data)
+        }
+        else if (req.url === '/monkeys/random.png')
+        {
+            getRandomImage().then((data) =>
+            {
+                res.writeHead(200, { 'Content-Type': 'image/png' })
+                res.end(data)
+            })
+            .catch((err) =>
+            {
+                console.error('[ FAIL ] Error getting random image:', err)
+                console.debug('[ WARN ] Error 404:', req.url)
+                do404(res)
+            })
         }
         else if (req.url === '/favicon.ico')
         {
