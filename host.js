@@ -8,6 +8,7 @@ const error404File = '404.html'
 var error404Response
 const iconFile = "MonkeyHead.ico"
 var icon
+var visitorCount = 0
 
 console.debug('[  OK  ] Starting server...')
 
@@ -154,6 +155,9 @@ fs.readFile(indexFile, (err, data) =>
     const server = http.createServer((req, res) =>
     {
         console.debug('[  OK  ] Received connection. URL:', req.url)
+        console.debug('[  OK  ] Remote address of connection:', req.socket.remoteAddress)
+        visitorCount++
+        console.debug('[  OK  ] Visitor number:', visitorCount)
 
         if (req.url === '/')
         {
