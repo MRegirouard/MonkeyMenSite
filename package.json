@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/MRegirouard/MonkeyMenSite/issues"
   },
-  "homepage": "https://github.com/MRegirouard/MonkeyMenSite#readme"
+  "homepage": "https://github.com/MRegirouard/MonkeyMenSite#readme",
+  "dependencies": {
+    "planetscale-node": "^0.1.0"
+  }
 }
