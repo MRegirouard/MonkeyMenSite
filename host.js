@@ -1,6 +1,5 @@
 const http = require('http')
 const fs = require('fs')
-const sqlite3 = require('sqlite3').verbose()
 
 // Run with "PORT=8081 node host.js" to use a port other than 80
 const port = process.env.PORT || 80
@@ -10,10 +9,6 @@ var error404Response
 const iconFile = "MonkeyHead.ico"
 var icon
 var visitorCount = 0
-
-const dbPath = './Visitors.db'
-const db = new sqlite3.Database(dbPath)
-db.run('CREATE TABLE IF NOT EXISTS visitors (address TEXT PRIMARY KEY, visits INT)')
 
 console.debug('[  OK  ] Starting server...')
 

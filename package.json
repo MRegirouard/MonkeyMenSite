@@ -26,8 +26,5 @@
   "bugs": {
     "url": "https://github.com/MRegirouard/MonkeyMenSite/issues"
   },
-  "homepage": "https://github.com/MRegirouard/MonkeyMenSite#readme",
-  "dependencies": {
-    "sqlite3": "^5.0.2"
-  }
+  "homepage": "https://github.com/MRegirouard/MonkeyMenSite#readme"
 }
