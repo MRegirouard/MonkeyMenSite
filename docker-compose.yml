@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  monkeymensite:
+    image: monkeymensite
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+      PLANETSCALE_DB: PSCALE_DATABASE
+      PLANETSCALE_ORG: PSCALE_ORGANIZATION
+      PLANETSCALE_TOKEN_NAME: PSCALE_TOKEN_NAME
+      PLANETSCALE_TOKEN: PSCALE_TOKEN
+    ports:
+      - 8081:80
