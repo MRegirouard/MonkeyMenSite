@@ -1,5 +1,6 @@
 const http = require('http')
 const fs = require('fs')
+const { PSDB } = require('planetscale-node')
 
 // Run with "PORT=8081 node host.js" to use a port other than 80
 const port = process.env.PORT || 80
@@ -8,9 +9,33 @@ const error404File = '404.html'
 var error404Response
 const iconFile = "MonkeyHead.ico"
 var icon
-var visitorCount = 0
+var currentNewVisitCount = 0 // Number of unique visits in the last minute
 
 console.debug('[  OK  ] Starting server...')
+
+try
+{
+    const data = new PSDB('main')
+}
+catch (error)
+{
+    console.error('[ FAIL ] Could not connect to PlanetScale database:', error)
+}
+
+setInterval(() => // Every 60 seconds, update the number of unique visits (if there are any)
+{
+    if (currentNewVisitCount > 0)
+    {
+        const date = new Date()
+        var dateStr = date.toISOString()
+        dateStr = dateStr.substr(0, dateStr.length - 5)
+        dateStr = dateStr.replace(/T/g, ' ')
+
+        data.execute('INSERT INTO visits VALUES ( \"' + dateStr + '\", ' + currentNewVisitCount + ');').catch((error) => console.error('[ FAIL ] Error updating visit database:', error))
+
+        currentNewVisitCount = 0
+    }
+}, 60 * 1000)
 
 fs.readFile(error404File, (err, data) =>
 {
@@ -36,6 +61,32 @@ function do404(res)
         res.end('Not found')
     else
         res.end(error404Response)
+}
+
+function handleVisit(address)
+{
+    return new Promise((resolve, reject) =>
+    {
+        data.query('SELECT * FROM visitors WHERE address = \"' + address + '\";').then((rows) =>
+        {
+            if (rows[0].length == 0)
+            {
+                data.execute('INSERT INTO visitors (address, visits) VALUES (\"' + address + '\", 1);').then((result) => 
+                {
+                    currentNewVisitCount++
+                    resolve(result)
+                }).catch(reject)
+            }
+            else
+            {
+                const address = rows[0][0].address
+                const visits = parseFloat(rows[0][0].visits) + 1
+
+                data.execute('UPDATE visitors SET visits = ' + visits + ' WHERE address = \"' + address + '\";').then(resolve).catch(reject)
+            }
+
+        }).catch(reject)
+    })
 }
 
 
@@ -156,8 +207,8 @@ fs.readFile(indexFile, (err, data) =>
     {
         console.debug('[  OK  ] Received connection. URL:', req.url)
         console.debug('[  OK  ] Remote address of connection:', req.socket.remoteAddress)
-        visitorCount++
-        console.debug('[  OK  ] Visitor number:', visitorCount)
+
+        handleVisit(req.socket.remoteAddress).catch((error) => console.error('[ FAIL ] Error updating visitors table:', error))
 
         if (req.url === '/')
         {
