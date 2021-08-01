@@ -10,6 +10,7 @@ var error404Response
 const iconFile = "MonkeyHead.ico"
 var icon
 var currentNewVisitCount = 0 // Number of unique visits in the last minute
+var currentVisitCount = 0 // Number of total visits in the last minute
 
 console.debug('[  OK  ] Starting server...')
 
@@ -26,16 +27,17 @@ catch (error)
 
 setInterval(() => // Every 60 seconds, update the number of unique visits (if there are any)
 {
-    if (currentNewVisitCount > 0)
+    if (currentNewVisitCount > 0 || currentVisitCount > 0)
     {
         const date = new Date()
         var dateStr = date.toISOString()
         dateStr = dateStr.substr(0, dateStr.length - 5)
         dateStr = dateStr.replace(/T/g, ' ')
 
-        data.execute('INSERT INTO visits VALUES ( \"' + dateStr + '\", ' + currentNewVisitCount + ');').catch((error) => console.error('[ FAIL ] Error updating visit database:', error))
+        data.execute('INSERT INTO visits VALUES ( \"' + dateStr + '\", ' + currentNewVisitCount + ', ' + currentVisitCount + ');').catch((error) => console.error('[ FAIL ] Error updating visit database:', error))
 
         currentNewVisitCount = 0
+        currentVisitCount = 0
     }
 }, 60 * 1000)
 
@@ -69,6 +71,8 @@ function handleVisit(address)
 {
     return new Promise((resolve, reject) =>
     {
+        currentVisitCount++
+
         data.query('SELECT * FROM visitors WHERE address = \"' + address + '\";').then((rows) =>
         {
             if (rows[0].length == 0)
