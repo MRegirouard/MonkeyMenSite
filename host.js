@@ -13,9 +13,11 @@ var currentNewVisitCount = 0 // Number of unique visits in the last minute
 
 console.debug('[  OK  ] Starting server...')
 
+var data
+
 try
 {
-    const data = new PSDB('main')
+    data = new PSDB('main')
 }
 catch (error)
 {
