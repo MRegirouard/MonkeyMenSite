@@ -12,6 +12,11 @@ var icon
 var currentNewVisitCount = 0 // Number of unique visits in the last minute
 var currentVisitCount = 0 // Number of total visits in the last minute
 
+var addressCache = [] // A cache of {addresses, visits, lastVisit} objects to avoid querying the database too often
+// These are pushed every minute, and the visits counter is reset for each address
+// If a visit is made to an address more than once in a minute (highly likely), we only have to update the database once
+// If more than 1 minute has gone by since the last visit, drop the entry from the cache to avoid memory issues
+
 console.debug('[  OK  ] Starting server...')
 
 var data
@@ -25,21 +30,67 @@ catch (error)
     console.error('[ FAIL ] Could not connect to PlanetScale database:', error)
 }
 
-setInterval(() => // Every 60 seconds, update the number of unique visits (if there are any)
+setInterval(() => // Every 60 seconds, update the number of unique visits (if there are any) and push to the database
 {
-    if (currentNewVisitCount > 0 || currentVisitCount > 0)
+    console.debug('[  OK  ] Running database updates...')
+
+    pushToDatabase().catch(error => console.error('[ FAIL ] Error pushing cache to database:', error)).then(() =>
     {
-        const date = new Date()
-        var dateStr = date.toISOString()
-        dateStr = dateStr.substr(0, dateStr.length - 5)
-        dateStr = dateStr.replace(/T/g, ' ')
+        if (currentNewVisitCount > 0 || currentVisitCount > 0)
+        {
+            const date = new Date()
+            var dateStr = date.toISOString()
+            dateStr = dateStr.substr(0, dateStr.length - 5)
+            dateStr = dateStr.replace(/T/g, ' ')
 
-        data.execute('INSERT INTO visits VALUES ( \"' + dateStr + '\", ' + currentNewVisitCount + ', ' + currentVisitCount + ');').catch((error) => console.error('[ FAIL ] Error updating visit database:', error))
+            data.execute('INSERT INTO visits VALUES ( \"' + dateStr + '\", ' + currentNewVisitCount + ', ' + currentVisitCount + ');')
+                .catch(error => console.error('[ FAIL ] Error updating visit database:', error))
 
-        currentNewVisitCount = 0
-        currentVisitCount = 0
-    }
+            currentNewVisitCount = 0
+            currentVisitCount = 0
+        }
+
+        console.info('[  OK  ] Database updates complete.')
+    }).catch(error => console.error('[ FAIL ] Error pushing to visits database:', error))
+
 }, 60 * 1000)
+
+function pushToDatabase()
+{
+    return new Promise((resolve, reject) =>
+    {
+        const waitingFor = [] // Hold database promises
+
+        const dropThreshold = new Date(Date.now() - 1000 * 60) // If a cache entry's last visit is more than a minute ago, it will be dropped
+
+        addressCache.forEach((address) =>
+        {
+            if (address.visits > 0) // Update the database if there are new visits
+            {
+
+                // Insert a new visitor entry, or update an existing one if it already exists
+                var executeStr = `INSERT INTO visitors (address, visits) VALUES ( \"${address.address}\", ${address.visits} ) `
+                executeStr += `ON DUPLICATE KEY UPDATE visits = visits + ${address.visits};`
+
+                waitingFor.push(data.execute(executeStr).then((result) => 
+                {
+                    if (result[0].affectedRows === 1) // The "affectedRows" will be 1 if the entry is new, 2 if it already exists
+                    {
+                        currentNewVisitCount++
+                        console.debug('[  OK  ] New visitor detected! Address', address.address)
+                    }
+
+                    address.visits = 0
+                }))
+            }
+
+            if (address.lastVisit < dropThreshold)
+                addressCache.splice(addressCache.indexOf(address, 1)) // Drop the entry if it's too old to free some memory
+        })
+
+        Promise.all(waitingFor).then(resolve).catch(reject) // Wait for all the database updates to finish
+    })
+}
 
 fs.readFile(error404File, (err, data) =>
 {
@@ -69,32 +120,18 @@ function do404(res)
 
 function handleVisit(address)
 {
-    return new Promise((resolve, reject) =>
+    currentVisitCount++
+
+    const thisCacheAddress = addressCache.filter(item => item.address === address)
+
+    if (thisCacheAddress.length > 0) // We have a locally stored cached address, use this instead of querying the database
     {
-        currentVisitCount++
-
-        data.query('SELECT * FROM visitors WHERE address = \"' + address + '\";').then((rows) =>
-        {
-            if (rows[0].length == 0)
-            {
-                data.execute('INSERT INTO visitors (address, visits) VALUES (\"' + address + '\", 1);').then((result) => 
-                {
-                    currentNewVisitCount++
-                    resolve(result)
-                }).catch(reject)
-            }
-            else
-            {
-                const address = rows[0][0].address
-                const visits = parseFloat(rows[0][0].visits) + 1
-
-                data.execute('UPDATE visitors SET visits = ' + visits + ' WHERE address = \"' + address + '\";').then(resolve).catch(reject)
-            }
-
-        }).catch(reject)
-    })
+        thisCacheAddress[0].visits++
+        thisCacheAddress[0].lastVisit = new Date()
+    }
+    else // This address doesn't exist in the cache, create it
+        addressCache.push({ address: address, visits: 1, lastVisit: new Date() })
 }
-
 
 function getRandomImage()
 {
@@ -214,7 +251,7 @@ fs.readFile(indexFile, (err, data) =>
         console.debug('[  OK  ] Received connection. URL:', req.url)
         console.debug('[  OK  ] Remote address of connection:', req.socket.remoteAddress)
 
-        handleVisit(req.socket.remoteAddress).catch((error) => console.error('[ FAIL ] Error updating visitors table:', error))
+        handleVisit(req.socket.remoteAddress)
 
         if (req.url === '/')
         {
