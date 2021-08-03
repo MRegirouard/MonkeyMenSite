@@ -53,7 +53,7 @@ setInterval(() => // Every 60 seconds, update the number of unique visits (if th
         console.info('[  OK  ] Database updates complete.')
     }).catch(error => console.error('[ FAIL ] Error pushing to visits database:', error))
 
-}, 60 * 1000)
+}, 3 * 60 * 1000)
 
 function pushToDatabase()
 {
