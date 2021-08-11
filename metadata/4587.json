@@ -1,0 +1,74 @@
+{
+  "image": "192.168.0.56:8081/monkeys/4587.png",
+  "tokenId": 4587,
+  "name": "Monkey Men #4587 - Ruxpin | Score: 99 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 3547,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 99,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 4587,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Work Boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
+    }
+  ]
+}

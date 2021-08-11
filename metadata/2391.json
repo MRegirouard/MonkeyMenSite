@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/2391.png",
+  "tokenId": 2391,
+  "name": "Monkey Men #2391 - Rachel | Score: 169 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 1761,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 169,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 2391,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Fez",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Red Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Banana",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

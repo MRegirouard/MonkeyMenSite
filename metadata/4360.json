@@ -1,0 +1,74 @@
+{
+  "image": "192.168.0.56:8081/monkeys/4360.png",
+  "tokenId": 4360,
+  "name": "Monkey Men #4360 - Ewok | Score: 92 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 3675,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 92,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 4360,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Regular",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Coconut",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Baseball Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "White",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Work Boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/900.png",
+  "tokenId": 900,
+  "name": "Monkey Men #900 - Nova | Score: 179 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 1446,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 179,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 900,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Beanie",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Orange Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Balloon",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

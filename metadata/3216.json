@@ -1,0 +1,64 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3216.png",
+  "tokenId": 3216,
+  "name": "Monkey Men #3216 - Huck | Score: 121 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 2840,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 121,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3216,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Cowboy",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Green Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3306.png",
+  "tokenId": 3306,
+  "name": "Monkey Men #3306 - Piero | Score: 195 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 1132,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 195,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3306,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Blue-Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Bucket Hat",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "White",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

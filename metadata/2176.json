@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/2176.png",
+  "tokenId": 2176,
+  "name": "Monkey Men #2176 - Athanas | Score: 278 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 241,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 278,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 2176,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Monacle",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Rainbow",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "White",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Work Boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Banana",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
+    }
+  ]
+}

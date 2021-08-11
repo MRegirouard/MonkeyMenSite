@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3748.png",
+  "tokenId": 3748,
+  "name": "Monkey Men #3748 - Blago | Score: 126 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 2744,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 126,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3748,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Rope",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Baseball Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Tennis",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Banana",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/27.png",
+  "tokenId": 27,
+  "name": "Monkey Men #27 - Rebel | Score: 74 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 4192,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 74,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 27,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Regular",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Top Hat",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Work Boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Money",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 40,
+      "trait_type": "Money"
+    }
+  ]
+}

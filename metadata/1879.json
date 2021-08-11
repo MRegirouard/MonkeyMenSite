@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/1879.png",
+  "tokenId": 1879,
+  "name": "Monkey Men #1879 - RooR | Score: 146 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 2260,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 146,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 1879,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Magic Wand",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Bowler",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Blue Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    }
+  ]
+}

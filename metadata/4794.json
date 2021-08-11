@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/4794.png",
+  "tokenId": 4794,
+  "name": "Monkey Men #4794 - Kramer | Score: 375 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 19,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 375,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 4794,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Monacle",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Rope",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Bucket Hat",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Pink Slippers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Balloon",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    }
+  ]
+}

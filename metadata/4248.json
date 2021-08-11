@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/4248.png",
+  "tokenId": 4248,
+  "name": "Monkey Men #4248 - Lynx | Score: 80 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 4034,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 80,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 4248,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Baseball Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Work Boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Banana",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 15,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3593.png",
+  "tokenId": 3593,
+  "name": "Monkey Men #3593 - Skye | Score: 70 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 4312,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 70,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3593,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Baseball Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Green Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
+    }
+  ]
+}

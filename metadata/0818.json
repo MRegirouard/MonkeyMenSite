@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/818.png",
+  "tokenId": 818,
+  "name": "Monkey Men #818 - Endor | Score: 245 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 484,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 245,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 818,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Rope",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Cowboy",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Winter Boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Balloon",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    }
+  ]
+}

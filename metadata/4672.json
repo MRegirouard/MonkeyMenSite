@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/4672.png",
+  "tokenId": 4672,
+  "name": "Monkey Men #4672 - Wanda | Score: 183 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 1289,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 183,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 4672,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Orange-Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Regular",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Baseball Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Blue Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

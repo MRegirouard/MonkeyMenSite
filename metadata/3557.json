@@ -1,0 +1,74 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3557.png",
+  "tokenId": 3557,
+  "name": "Monkey Men #3557 - Butrus | Score: 305 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 143,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 305,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3557,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Orange-Red",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Top Hat",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Green Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Balloon",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/2338.png",
+  "tokenId": 2338,
+  "name": "Monkey Men #2338 - Flare | Score: 167 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 1835,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 167,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 2338,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Yellow-Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Bowler",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Green Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
+    }
+  ]
+}

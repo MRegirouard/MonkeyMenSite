@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/4604.png",
+  "tokenId": 4604,
+  "name": "Monkey Men #4604 - Giant | Score: 206 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 981,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 206,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 4604,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Rope",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Bowler",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Winter Boots",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Grapes",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

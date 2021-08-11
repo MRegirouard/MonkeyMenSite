@@ -1,0 +1,64 @@
+{
+  "image": "192.168.0.56:8081/monkeys/1355.png",
+  "tokenId": 1355,
+  "name": "Monkey Men #1355 - Gringo | Score: 80 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 4047,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 80,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 1355,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3417.png",
+  "tokenId": 3417,
+  "name": "Monkey Men #3417 - Vaast | Score: 286 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 207,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 286,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3417,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Bird",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Cowboy",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Blue Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 15,
+      "trait_type": "Style"
+    }
+  ]
+}

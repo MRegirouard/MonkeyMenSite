@@ -1,0 +1,59 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3879.png",
+  "tokenId": 3879,
+  "name": "Monkey Men #3879 - Zakhar | Score: 204 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 1012,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 204,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3879,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Purple-Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Cowboy",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Tennis",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Left Hand"
+    }
+  ]
+}

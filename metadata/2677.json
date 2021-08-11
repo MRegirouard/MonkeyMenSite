@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/2677.png",
+  "tokenId": 2677,
+  "name": "Monkey Men #2677 - Phobos | Score: 270 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 315,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 270,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 2677,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Regular",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Rope",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Fez",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Rainbow",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Orange Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
+    }
+  ]
+}

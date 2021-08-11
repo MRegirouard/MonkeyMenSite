@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3869.png",
+  "tokenId": 3869,
+  "name": "Monkey Men #3869 - Sigmundur | Score: 313 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 109,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 313,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3869,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Cowboy",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Gray Sweat Pants",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Gray Tank Top",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Pink Slippers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
+    }
+  ]
+}

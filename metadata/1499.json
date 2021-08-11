@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/1499.png",
+  "tokenId": 1499,
+  "name": "Monkey Men #1499 - Ivana | Score: 276 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 269,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 276,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 1499,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Monacle",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Fez",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "White",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Green Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

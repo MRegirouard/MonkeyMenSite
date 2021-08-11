@@ -1,0 +1,64 @@
+{
+  "image": "192.168.0.56:8081/monkeys/2481.png",
+  "tokenId": 2481,
+  "name": "Monkey Men #2481 - Melinda | Score: 109 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 3235,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 109,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 2481,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Regular",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Tennis",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    }
+  ]
+}

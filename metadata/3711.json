@@ -1,0 +1,64 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3711.png",
+  "tokenId": 3711,
+  "name": "Monkey Men #3711 - Katherine | Score: 43 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 4735,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 43,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3711,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Orange",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Banana",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Baseball Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Red Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
+    }
+  ]
+}

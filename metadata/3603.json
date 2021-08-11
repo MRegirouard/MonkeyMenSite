@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3603.png",
+  "tokenId": 3603,
+  "name": "Monkey Men #3603 - Crispian | Score: 148 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 2200,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 148,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3603,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Magic Wand",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Top Hat",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Blue Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 15,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "image": "192.168.0.56:8081/monkeys/4774.png",
+  "tokenId": 4774,
+  "name": "Monkey Men #4774 - Cozy | Score: 138 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 2572,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 138,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 4774,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Empty",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Top Hat",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Gray Sweat Pants",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Tennis",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Banana",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

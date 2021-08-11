@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/2798.png",
+  "tokenId": 2798,
+  "name": "Monkey Men #2798 - Theron | Score: 113 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 3042,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 113,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 2798,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Regular",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Magic Wand",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Bowler",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Orange Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

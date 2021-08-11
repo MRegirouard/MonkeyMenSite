@@ -1,0 +1,74 @@
+{
+  "image": "192.168.0.56:8081/monkeys/1547.png",
+  "tokenId": 1547,
+  "name": "Monkey Men #1547 - Patrizio | Score: 301 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 166,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 301,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 1547,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Monacle",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Coconut",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Baseball Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Tennis",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Coconut",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
+    }
+  ]
+}

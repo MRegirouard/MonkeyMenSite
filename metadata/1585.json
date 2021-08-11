@@ -1,0 +1,64 @@
+{
+  "image": "192.168.0.56:8081/monkeys/1585.png",
+  "tokenId": 1585,
+  "name": "Monkey Men #1585 - Bongo | Score: 80 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 4039,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 80,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 1585,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Flower",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    }
+  ]
+}

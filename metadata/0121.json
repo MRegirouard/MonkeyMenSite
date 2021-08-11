@@ -1,0 +1,84 @@
+{
+  "image": "192.168.0.56:8081/monkeys/121.png",
+  "tokenId": 121,
+  "name": "Monkey Men #121 - Dariy | Score: 235 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 603,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 235,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 121,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Phone",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Top Hat",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Gray Sweat Pants",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "None",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Grapes",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
+    }
+  ]
+}

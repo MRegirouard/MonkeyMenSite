@@ -1,0 +1,79 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3425.png",
+  "tokenId": 3425,
+  "name": "Monkey Men #3425 - Saint | Score: 216 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 815,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 216,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3425,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Monacle",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Banana",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Gray Sweat Pants",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Orange Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Coconut",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
+    }
+  ]
+}

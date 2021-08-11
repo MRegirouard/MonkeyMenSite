@@ -1,0 +1,69 @@
+{
+  "image": "192.168.0.56:8081/monkeys/17.png",
+  "tokenId": 17,
+  "name": "Monkey Men #17 - Tomislav | Score: 210 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 879,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 210,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 17,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Cyan",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Banana",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Fez",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Gray Tank Top",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Orange Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Apple",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
+    }
+  ]
+}

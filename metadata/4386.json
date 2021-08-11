@@ -1,0 +1,59 @@
+{
+  "image": "192.168.0.56:8081/monkeys/4386.png",
+  "tokenId": 4386,
+  "name": "Monkey Men #4386 - Tippy | Score: 169 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 1750,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 169,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 4386,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Purple-Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "Baseball Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "None",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Tennis",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Left Hand"
+    }
+  ]
+}

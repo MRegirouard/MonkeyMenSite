@@ -1,0 +1,64 @@
+{
+  "image": "192.168.0.56:8081/monkeys/3005.png",
+  "tokenId": 3005,
+  "name": "Monkey Men #3005 - Wolf | Score: 144 | Rarity: Common",
+  "attributes": [
+    {
+      "value": "Common",
+      "trait_type": "Rarity"
+    },
+    {
+      "display_type": "number",
+      "value": 2325,
+      "trait_type": "Rank"
+    },
+    {
+      "display_type": "number",
+      "value": 144,
+      "trait_type": "Score",
+      "max_value": 800
+    },
+    {
+      "display_type": "number",
+      "value": 3005,
+      "trait_type": "Number"
+    },
+    {
+      "value": "Purple-Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "None",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Right Hand"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Red Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Leaf",
+      "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    }
+  ]
+}
