@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3877.png",
   "tokenId": 3877,
-  "name": "Monkey Men #3877 - Roxie | Score: 220 | Rarity: Common",
+  "name": "Monkey Men #3877 - Tracker | Score: 111 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 710,
+      "value": 3180,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 220,
+      "value": 111,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -44,25 +44,20 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

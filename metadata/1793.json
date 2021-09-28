@@ -1,15 +1,15 @@
 {
   "image": "192.168.0.56:8081/monkeys/1793.png",
   "tokenId": 1793,
-  "name": "Monkey Men #1793 - Alba | Score: 154 | Rarity: Common",
+  "name": "Monkey Men #1793 - Shulamite | Score: 154 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1989,
+      "value": 1983,
       "trait_type": "Rank"
     },
     {
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -48,26 +48,26 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 15,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Health"
     }
   ]

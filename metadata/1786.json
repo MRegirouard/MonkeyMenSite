@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1786.png",
   "tokenId": 1786,
-  "name": "Monkey Men #1786 - Nahal | Score: 233 | Rarity: Common",
+  "name": "Monkey Men #1786 - Yang | Score: 111 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 625,
+      "value": 3135,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 233,
+      "value": 111,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
@@ -52,18 +52,23 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_number",

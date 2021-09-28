@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2653.png",
   "tokenId": 2653,
-  "name": "Monkey Men #2653 - Shiv | Score: 101 | Rarity: Common",
+  "name": "Monkey Men #2653 - Falkor | Score: 146 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3476,
+      "value": 2199,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 101,
+      "value": 146,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -40,25 +40,30 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

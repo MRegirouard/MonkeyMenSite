@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2340.png",
   "tokenId": 2340,
-  "name": "Monkey Men #2340 - Zeke | Score: 57 | Rarity: Common",
+  "name": "Monkey Men #2340 - Charlemagne | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4439,
+      "value": 3397,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 57,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -40,30 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

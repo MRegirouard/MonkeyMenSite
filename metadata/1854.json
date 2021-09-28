@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1854.png",
   "tokenId": 1854,
-  "name": "Monkey Men #1854 - Euphrasia | Score: 109 | Rarity: Common",
+  "name": "Monkey Men #1854 - Bell | Score: 173 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3302,
+      "value": 1620,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 173,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,31 +28,31 @@
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -62,13 +62,28 @@
     },
     {
       "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

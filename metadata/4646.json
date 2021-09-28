@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4646.png",
   "tokenId": 4646,
-  "name": "Monkey Men #4646 - Warrick | Score: 264 | Rarity: Common",
+  "name": "Monkey Men #4646 - Bartholomew | Score: 119 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 355,
+      "value": 2876,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 264,
+      "value": 119,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
     }
   ]
 }

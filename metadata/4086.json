@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4086.png",
   "tokenId": 4086,
-  "name": "Monkey Men #4086 - Abdoul | Score: 39 | Rarity: Common",
+  "name": "Monkey Men #4086 - Ivor | Score: 158 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4864,
+      "value": 1910,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 39,
+      "value": 158,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,19 +28,19 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,17 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
+      "value": 10,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -67,7 +67,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

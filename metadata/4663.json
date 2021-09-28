@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4663.png",
   "tokenId": 4663,
-  "name": "Monkey Men #4663 - Dutches | Score: 204 | Rarity: Common",
+  "name": "Monkey Men #4663 - Euphrasia | Score: 45 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1027,
+      "value": 4657,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 204,
+      "value": 45,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,36 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Health"
     }
   ]
 }

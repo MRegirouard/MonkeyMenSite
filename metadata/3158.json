@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3158.png",
   "tokenId": 3158,
-  "name": "Monkey Men #3158 - Esmond | Score: 107 | Rarity: Common",
+  "name": "Monkey Men #3158 - Hennessy | Score: 183 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3393,
+      "value": 1309,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 107,
+      "value": 183,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -57,7 +57,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 15,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Strength"
     }
   ]

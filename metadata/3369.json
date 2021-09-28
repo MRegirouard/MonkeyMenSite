@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3369.png",
   "tokenId": 3369,
-  "name": "Monkey Men #3369 - Cartman | Score: 181 | Rarity: Common",
+  "name": "Monkey Men #3369 - Drama | Score: 214 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1317,
+      "value": 775,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 181,
+      "value": 214,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
@@ -40,7 +40,7 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,22 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
       "trait_type": "Style"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

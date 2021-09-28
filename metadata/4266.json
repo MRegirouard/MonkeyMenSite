@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4266.png",
   "tokenId": 4266,
-  "name": "Monkey Men #4266 - Courtney | Score: 74 | Rarity: Common",
+  "name": "Monkey Men #4266 - Peggy | Score: 247 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4173,
+      "value": 438,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 74,
+      "value": 247,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,23 +36,23 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -64,6 +64,11 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

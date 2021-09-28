@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4814.png",
   "tokenId": 4814,
-  "name": "Monkey Men #4814 - Vango | Score: 111 | Rarity: Common",
+  "name": "Monkey Men #4814 - Yemima | Score: 103 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3106,
+      "value": 3430,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 111,
+      "value": 103,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,29 +36,34 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2834.png",
   "tokenId": 2834,
-  "name": "Monkey Men #2834 - Alison | Score: 179 | Rarity: Common",
+  "name": "Monkey Men #2834 - Gray | Score: 92 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1416,
+      "value": 3649,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 179,
+      "value": 92,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -36,24 +36,44 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Apple",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

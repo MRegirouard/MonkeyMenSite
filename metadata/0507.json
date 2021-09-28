@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/507.png",
   "tokenId": 507,
-  "name": "Monkey Men #507 - Wiz | Score: 76 | Rarity: Common",
+  "name": "Monkey Men #507 - Tadala | Score: 80 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4153,
+      "value": 4058,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 76,
+      "value": 80,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
@@ -40,7 +40,7 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -58,7 +58,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

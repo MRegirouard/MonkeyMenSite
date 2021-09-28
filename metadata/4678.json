@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4678.png",
   "tokenId": 4678,
-  "name": "Monkey Men #4678 - Sour | Score: 216 | Rarity: Common",
+  "name": "Monkey Men #4678 - Wolfie | Score: 218 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 820,
+      "value": 706,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 216,
+      "value": 218,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
@@ -48,27 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "value": 5,
+      "trait_type": "Style"
     }
   ]
 }

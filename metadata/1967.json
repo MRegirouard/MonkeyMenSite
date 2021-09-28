@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1967.png",
   "tokenId": 1967,
-  "name": "Monkey Men #1967 - Dafydd | Score: 70 | Rarity: Common",
+  "name": "Monkey Men #1967 - Marcella | Score: 198 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4364,
+      "value": 1056,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 70,
+      "value": 198,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,30 +44,30 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

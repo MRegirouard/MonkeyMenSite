@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4090.png",
   "tokenId": 4090,
-  "name": "Monkey Men #4090 - Bristol | Score: 70 | Rarity: Common",
+  "name": "Monkey Men #4090 - Napoleon | Score: 138 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4297,
+      "value": 2529,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 70,
+      "value": 138,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -52,13 +52,8 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -67,8 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "value": 10,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_number",

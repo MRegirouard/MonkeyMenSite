@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/662.png",
   "tokenId": 662,
-  "name": "Monkey Men #662 - Baruch | Score: 144 | Rarity: Common",
+  "name": "Monkey Men #662 - Onion | Score: 136 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2316,
+      "value": 2615,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 144,
+      "value": 136,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,12 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Banana",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -63,11 +68,6 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Health"
     }
   ]

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1657.png",
   "tokenId": 1657,
-  "name": "Monkey Men #1657 - Mathis | Score: 136 | Rarity: Common",
+  "name": "Monkey Men #1657 - Crispinus | Score: 128 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2581,
+      "value": 2708,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 136,
+      "value": 128,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -62,13 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_number",

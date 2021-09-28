@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2936.png",
   "tokenId": 2936,
-  "name": "Monkey Men #2936 - Godeliva | Score: 117 | Rarity: Common",
+  "name": "Monkey Men #2936 - Sevinj | Score: 140 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2950,
+      "value": 2434,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 117,
+      "value": 140,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -67,13 +67,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_number",

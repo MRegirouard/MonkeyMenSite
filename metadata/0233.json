@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/233.png",
   "tokenId": 233,
-  "name": "Monkey Men #233 - Kiyoko | Score: 121 | Rarity: Common",
+  "name": "Monkey Men #233 - Godfrey | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2818,
+      "value": 3290,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 121,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,11 +28,11 @@
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
@@ -40,7 +40,7 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,27 +48,22 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

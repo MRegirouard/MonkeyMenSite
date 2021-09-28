@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1255.png",
   "tokenId": 1255,
-  "name": "Monkey Men #1255 - Misty | Score: 140 | Rarity: Common",
+  "name": "Monkey Men #1255 - Itziar | Score: 115 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2473,
+      "value": 3004,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 140,
+      "value": 115,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
@@ -40,29 +40,34 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
     }
   ]

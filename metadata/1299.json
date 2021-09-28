@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1299.png",
   "tokenId": 1299,
-  "name": "Monkey Men #1299 - Kilie | Score: 204 | Rarity: Common",
+  "name": "Monkey Men #1299 - Magni | Score: 165 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1023,
+      "value": 1814,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 204,
+      "value": 165,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,21 +44,31 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2398.png",
   "tokenId": 2398,
-  "name": "Monkey Men #2398 - Inma | Score: 82 | Rarity: Common",
+  "name": "Monkey Men #2398 - Ranger | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,7 +9,7 @@
     },
     {
       "display_type": "number",
-      "value": 3874,
+      "value": 3917,
       "trait_type": "Rank"
     },
     {
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -58,17 +58,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

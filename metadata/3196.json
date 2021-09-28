@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3196.png",
   "tokenId": 3196,
-  "name": "Monkey Men #3196 - Tessie | Score: 227 | Rarity: Common",
+  "name": "Monkey Men #3196 - Clue | Score: 97 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 664,
+      "value": 3569,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 227,
+      "value": 97,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -36,19 +36,19 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
     },
     {

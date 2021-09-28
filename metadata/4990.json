@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4990.png",
   "tokenId": 4990,
-  "name": "Monkey Men #4990 - Olson | Score: 113 | Rarity: Common",
+  "name": "Monkey Men #4990 - Mckenzie | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3027,
+      "value": 3842,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 113,
+      "value": 82,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -48,16 +48,16 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/163.png",
   "tokenId": 163,
-  "name": "Monkey Men #163 - Marin | Score: 109 | Rarity: Common",
+  "name": "Monkey Men #163 - Christophoros | Score: 119 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3330,
+      "value": 2864,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 119,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,11 +28,11 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
@@ -40,20 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -63,11 +68,6 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Health"
     }
   ]

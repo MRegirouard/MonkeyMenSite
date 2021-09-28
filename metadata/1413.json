@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1413.png",
   "tokenId": 1413,
-  "name": "Monkey Men #1413 - Frederick | Score: 251 | Rarity: Common",
+  "name": "Monkey Men #1413 - Apricot | Score: 78 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 412,
+      "value": 4093,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 251,
+      "value": 78,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -36,15 +36,15 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,23 +52,13 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1818.png",
   "tokenId": 1818,
-  "name": "Monkey Men #1818 - Sunshine | Score: 49 | Rarity: Common",
+  "name": "Monkey Men #1818 - Baruch | Score: 45 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4622,
+      "value": 4686,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 49,
+      "value": 45,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,17 +48,22 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

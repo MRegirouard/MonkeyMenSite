@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2281.png",
   "tokenId": 2281,
-  "name": "Monkey Men #2281 - Devin | Score: 148 | Rarity: Common",
+  "name": "Monkey Men #2281 - Lizzy | Score: 78 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2181,
+      "value": 4135,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 148,
+      "value": 78,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

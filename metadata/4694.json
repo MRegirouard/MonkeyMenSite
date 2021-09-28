@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4694.png",
   "tokenId": 4694,
-  "name": "Monkey Men #4694 - Rishi | Score: 218 | Rarity: Common",
+  "name": "Monkey Men #4694 - Tristan | Score: 123 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 733,
+      "value": 2763,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 218,
+      "value": 123,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,36 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Apple",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +61,9 @@
       "trait_type": "Temperature"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2754.png",
   "tokenId": 2754,
-  "name": "Monkey Men #2754 - Jiminy | Score: 146 | Rarity: Common",
+  "name": "Monkey Men #2754 - Afi | Score: 202 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2246,
+      "value": 1015,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 146,
+      "value": 202,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -48,17 +48,12 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Coconut",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +61,14 @@
       "trait_type": "Temperature"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

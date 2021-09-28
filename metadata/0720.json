@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/720.png",
   "tokenId": 720,
-  "name": "Monkey Men #720 - Sanjay | Score: 140 | Rarity: Common",
+  "name": "Monkey Men #720 - Sigmundur | Score: 130 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2441,
+      "value": 2669,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 140,
+      "value": 130,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
@@ -44,7 +44,7 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
@@ -52,23 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
     }
   ]
 }

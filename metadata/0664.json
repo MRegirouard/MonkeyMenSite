@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/664.png",
   "tokenId": 664,
-  "name": "Monkey Men #664 - Kourtney | Score: 80 | Rarity: Common",
+  "name": "Monkey Men #664 - Kylie | Score: 208 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3966,
+      "value": 889,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 80,
+      "value": 208,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -62,13 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 10,
+      "trait_type": "Style"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

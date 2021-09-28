@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2906.png",
   "tokenId": 2906,
-  "name": "Monkey Men #2906 - Rebecca | Score: 86 | Rarity: Common",
+  "name": "Monkey Men #2906 - Chidi | Score: 99 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3769,
+      "value": 3521,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 86,
+      "value": 99,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,20 +44,30 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Health"
     }
   ]

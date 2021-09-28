@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/66.png",
   "tokenId": 66,
-  "name": "Monkey Men #66 - Julius | Score: 140 | Rarity: Common",
+  "name": "Monkey Men #66 - Rosemary | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2468,
+      "value": 3904,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 140,
+      "value": 82,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,29 +36,24 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Coconut",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -67,13 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "value": 10,
+      "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/396.png",
   "tokenId": 396,
-  "name": "Monkey Men #396 - Zander | Score: 66 | Rarity: Common",
+  "name": "Monkey Men #396 - Jackpot | Score: 41 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4425,
+      "value": 4823,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 66,
+      "value": 41,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -57,8 +57,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

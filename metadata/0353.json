@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/353.png",
   "tokenId": 353,
-  "name": "Monkey Men #353 - Pepsi | Score: 169 | Rarity: Common",
+  "name": "Monkey Men #353 - Elvis | Score: 165 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1714,
+      "value": 1833,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 169,
+      "value": 165,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -36,15 +36,15 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,18 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Health"
     }
   ]
 }

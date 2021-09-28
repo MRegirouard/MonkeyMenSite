@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1800.png",
   "tokenId": 1800,
-  "name": "Monkey Men #1800 - Waldeburg | Score: 78 | Rarity: Common",
+  "name": "Monkey Men #1800 - Alexander | Score: 216 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4109,
+      "value": 729,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 78,
+      "value": 216,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
@@ -63,12 +63,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3835.png",
   "tokenId": 3835,
-  "name": "Monkey Men #3835 - Pete | Score: 88 | Rarity: Common",
+  "name": "Monkey Men #3835 - Hashim | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3746,
+      "value": 3918,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 88,
+      "value": 82,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -40,19 +40,19 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {

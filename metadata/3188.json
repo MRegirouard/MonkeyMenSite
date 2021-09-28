@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3188.png",
   "tokenId": 3188,
-  "name": "Monkey Men #3188 - Meja | Score: 80 | Rarity: Common",
+  "name": "Monkey Men #3188 - Lamprecht | Score: 237 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3987,
+      "value": 553,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 80,
+      "value": 237,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
@@ -32,33 +32,38 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

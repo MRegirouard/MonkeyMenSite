@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4702.png",
   "tokenId": 4702,
-  "name": "Monkey Men #4702 - Buddy | Score: 154 | Rarity: Common",
+  "name": "Monkey Men #4702 - Jonathan | Score: 101 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1974,
+      "value": 3456,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 154,
+      "value": 101,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

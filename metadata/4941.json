@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4941.png",
   "tokenId": 4941,
-  "name": "Monkey Men #4941 - Albert | Score: 90 | Rarity: Common",
+  "name": "Monkey Men #4941 - Nine | Score: 210 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3686,
+      "value": 823,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 90,
+      "value": 210,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,19 +28,19 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
@@ -58,12 +58,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

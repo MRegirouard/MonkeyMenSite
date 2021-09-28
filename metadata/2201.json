@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2201.png",
   "tokenId": 2201,
-  "name": "Monkey Men #2201 - Champ | Score: 136 | Rarity: Common",
+  "name": "Monkey Men #2201 - Giuseppina | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2632,
+      "value": 3255,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 136,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

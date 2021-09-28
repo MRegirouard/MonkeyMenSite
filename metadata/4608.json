@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4608.png",
   "tokenId": 4608,
-  "name": "Monkey Men #4608 - Pebbles | Score: 150 | Rarity: Common",
+  "name": "Monkey Men #4608 - Motke | Score: 84 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2102,
+      "value": 3778,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 150,
+      "value": 84,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,23 +62,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

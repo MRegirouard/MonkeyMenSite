@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/780.png",
   "tokenId": 780,
-  "name": "Monkey Men #780 - Silvija | Score: 43 | Rarity: Common",
+  "name": "Monkey Men #780 - Wally | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4767,
+      "value": 3218,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 43,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,40 +24,40 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 15,
       "trait_type": "Style"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "display_type": "boost_number",
-      "value": 20,
+      "value": 40,
       "trait_type": "Money"
     }
   ]

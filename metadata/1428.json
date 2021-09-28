@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1428.png",
   "tokenId": 1428,
-  "name": "Monkey Men #1428 - Itai | Score: 82 | Rarity: Common",
+  "name": "Monkey Men #1428 - Kreka | Score: 206 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3948,
+      "value": 947,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 82,
+      "value": 206,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3696.png",
   "tokenId": 3696,
-  "name": "Monkey Men #3696 - Aarti | Score: 165 | Rarity: Common",
+  "name": "Monkey Men #3696 - Mittens | Score: 212 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1857,
+      "value": 788,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 165,
+      "value": 212,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
@@ -40,35 +40,35 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 15,
       "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

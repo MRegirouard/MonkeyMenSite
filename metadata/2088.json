@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2088.png",
   "tokenId": 2088,
-  "name": "Monkey Men #2088 - Naftali | Score: 194 | Rarity: Common",
+  "name": "Monkey Men #2088 - Squirt | Score: 84 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1144,
+      "value": 3837,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 194,
+      "value": 84,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,32 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 40,
-      "trait_type": "Money"
     }
   ]
 }

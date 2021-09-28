@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/764.png",
   "tokenId": 764,
-  "name": "Monkey Men #764 - Ioana | Score: 179 | Rarity: Common",
+  "name": "Monkey Men #764 - Miguel | Score: 189 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1409,
+      "value": 1205,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 179,
+      "value": 189,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

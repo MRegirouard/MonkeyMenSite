@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1481.png",
   "tokenId": 1481,
-  "name": "Monkey Men #1481 - Sharon | Score: 140 | Rarity: Common",
+  "name": "Monkey Men #1481 - Katz | Score: 105 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2453,
+      "value": 3413,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 140,
+      "value": 105,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -64,11 +64,6 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
     }
   ]
 }

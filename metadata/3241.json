@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3241.png",
   "tokenId": 3241,
-  "name": "Monkey Men #3241 - Talbot | Score: 173 | Rarity: Common",
+  "name": "Monkey Men #3241 - Brady | Score: 49 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1615,
+      "value": 4607,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 173,
+      "value": 49,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,31 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Temperature"
     }
   ]
 }

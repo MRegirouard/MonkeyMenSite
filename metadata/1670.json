@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1670.png",
   "tokenId": 1670,
-  "name": "Monkey Men #1670 - Sophia | Score: 16 | Rarity: Common",
+  "name": "Monkey Men #1670 - Flinstone | Score: 47 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4941,
+      "value": 4621,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 16,
+      "value": 47,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,7 +28,7 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -44,21 +44,31 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

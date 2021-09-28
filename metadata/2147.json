@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2147.png",
   "tokenId": 2147,
-  "name": "Monkey Men #2147 - Haim | Score: 138 | Rarity: Common",
+  "name": "Monkey Men #2147 - Roach | Score: 131 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2509,
+      "value": 2663,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 138,
+      "value": 131,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

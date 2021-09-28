@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2207.png",
   "tokenId": 2207,
-  "name": "Monkey Men #2207 - Vidal | Score: 53 | Rarity: Common",
+  "name": "Monkey Men #2207 - Warrick | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4528,
+      "value": 2188,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 53,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,36 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

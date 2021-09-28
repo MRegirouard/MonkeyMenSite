@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/354.png",
   "tokenId": 354,
-  "name": "Monkey Men #354 - Aegle | Score: 12 | Rarity: Common",
+  "name": "Monkey Men #354 - Link | Score: 218 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4988,
+      "value": 684,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 12,
+      "value": 218,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
@@ -44,26 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Charm"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3589.png",
   "tokenId": 3589,
-  "name": "Monkey Men #3589 - Sohrab | Score: 47 | Rarity: Common",
+  "name": "Monkey Men #3589 - Alikhan | Score: 70 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4640,
+      "value": 4334,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 47,
+      "value": 70,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,11 +28,11 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -40,30 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -71,9 +66,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

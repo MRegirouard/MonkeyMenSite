@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/434.png",
   "tokenId": 434,
-  "name": "Monkey Men #434 - Charline | Score: 338 | Rarity: Common",
+  "name": "Monkey Men #434 - Dita | Score: 57 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 58,
+      "value": 4437,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 338,
+      "value": 57,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,13 +57,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/444.png",
   "tokenId": 444,
-  "name": "Monkey Men #444 - Quincy | Score: 66 | Rarity: Common",
+  "name": "Monkey Men #444 - Willabert | Score: 74 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4418,
+      "value": 4198,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 66,
+      "value": 74,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
@@ -44,7 +44,7 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,8 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

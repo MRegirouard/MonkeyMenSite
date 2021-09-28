@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2570.png",
   "tokenId": 2570,
-  "name": "Monkey Men #2570 - Trevor | Score: 109 | Rarity: Common",
+  "name": "Monkey Men #2570 - Seinfeld | Score: 239 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3223,
+      "value": 526,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 239,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -62,18 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

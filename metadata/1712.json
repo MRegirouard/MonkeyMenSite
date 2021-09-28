@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1712.png",
   "tokenId": 1712,
-  "name": "Monkey Men #1712 - Ayda | Score: 109 | Rarity: Common",
+  "name": "Monkey Men #1712 - Matty | Score: 121 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3322,
+      "value": 2784,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 121,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
@@ -40,11 +40,11 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,23 +52,33 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 15,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

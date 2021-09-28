@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/959.png",
   "tokenId": 959,
-  "name": "Monkey Men #959 - Netsai | Score: 72 | Rarity: Common",
+  "name": "Monkey Men #959 - Yoselin | Score: 53 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4248,
+      "value": 4498,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 72,
+      "value": 53,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,22 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -72,7 +67,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

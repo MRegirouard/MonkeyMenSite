@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2400.png",
   "tokenId": 2400,
-  "name": "Monkey Men #2400 - Erramun | Score: 72 | Rarity: Common",
+  "name": "Monkey Men #2400 - Comfort | Score: 152 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4204,
+      "value": 2010,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 72,
+      "value": 152,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,18 +62,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

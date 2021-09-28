@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3434.png",
   "tokenId": 3434,
-  "name": "Monkey Men #3434 - Ariadne | Score: 245 | Rarity: Common",
+  "name": "Monkey Men #3434 - Clinton | Score: 76 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 481,
+      "value": 4139,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 245,
+      "value": 76,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
@@ -32,33 +32,28 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -72,18 +67,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

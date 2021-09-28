@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1925.png",
   "tokenId": 1925,
-  "name": "Monkey Men #1925 - Ivy | Score: 171 | Rarity: Common",
+  "name": "Monkey Men #1925 - Ragu | Score: 181 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1683,
+      "value": 1385,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 171,
+      "value": 181,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
@@ -40,40 +40,30 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4500.png",
   "tokenId": 4500,
-  "name": "Monkey Men #4500 - Crook | Score: 51 | Rarity: Common",
+  "name": "Monkey Men #4500 - Zdravko | Score: 212 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4575,
+      "value": 806,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 51,
+      "value": 212,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -63,12 +63,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
     }
   ]
 }

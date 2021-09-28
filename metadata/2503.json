@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2503.png",
   "tokenId": 2503,
-  "name": "Monkey Men #2503 - Bullet | Score: 148 | Rarity: Common",
+  "name": "Monkey Men #2503 - Vilim | Score: 150 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2204,
+      "value": 2085,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 148,
+      "value": 150,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
@@ -44,7 +44,7 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -57,13 +57,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

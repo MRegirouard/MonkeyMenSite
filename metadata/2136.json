@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2136.png",
   "tokenId": 2136,
-  "name": "Monkey Men #2136 - Justin | Score: 212 | Rarity: Common",
+  "name": "Monkey Men #2136 - Fairy | Score: 43 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 841,
+      "value": 4722,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 212,
+      "value": 43,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -63,16 +63,11 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

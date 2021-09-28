@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3951.png",
   "tokenId": 3951,
-  "name": "Monkey Men #3951 - Natsuki | Score: 80 | Rarity: Common",
+  "name": "Monkey Men #3951 - Meliton | Score: 92 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4061,
+      "value": 3641,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 80,
+      "value": 92,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -48,17 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

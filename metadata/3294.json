@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3294.png",
   "tokenId": 3294,
-  "name": "Monkey Men #3294 - Martin | Score: 218 | Rarity: Common",
+  "name": "Monkey Men #3294 - Alba | Score: 43 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 745,
+      "value": 4760,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 218,
+      "value": 43,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -32,42 +32,37 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Health"
     }
   ]

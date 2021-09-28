@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4975.png",
   "tokenId": 4975,
-  "name": "Monkey Men #4975 - Staci | Score: 101 | Rarity: Common",
+  "name": "Monkey Men #4975 - Cujo | Score: 111 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3464,
+      "value": 3102,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 101,
+      "value": 111,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -32,38 +32,33 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Charm"
     }
   ]
 }

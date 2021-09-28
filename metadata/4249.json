@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4249.png",
   "tokenId": 4249,
-  "name": "Monkey Men #4249 - Polly | Score: 136 | Rarity: Common",
+  "name": "Monkey Men #4249 - Yousaf | Score: 206 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2592,
+      "value": 970,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 136,
+      "value": 206,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -63,12 +63,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

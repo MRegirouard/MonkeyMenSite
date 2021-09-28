@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/254.png",
   "tokenId": 254,
-  "name": "Monkey Men #254 - Bongani | Score: 214 | Rarity: Common",
+  "name": "Monkey Men #254 - Espen | Score: 146 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 837,
+      "value": 2206,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 214,
+      "value": 146,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,15 +36,15 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
@@ -52,17 +52,22 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 10,
       "trait_type": "Strength"
     },
     {

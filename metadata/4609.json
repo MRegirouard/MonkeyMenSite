@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4609.png",
   "tokenId": 4609,
-  "name": "Monkey Men #4609 - Nelson | Score: 206 | Rarity: Common",
+  "name": "Monkey Men #4609 - Eliina | Score: 249 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 980,
+      "value": 406,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 206,
+      "value": 249,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
@@ -66,9 +66,9 @@
       "trait_type": "Style"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

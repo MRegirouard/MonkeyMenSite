@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4226.png",
   "tokenId": 4226,
-  "name": "Monkey Men #4226 - Herald | Score: 156 | Rarity: Common",
+  "name": "Monkey Men #4226 - Bharat | Score: 51 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1935,
+      "value": 4563,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 156,
+      "value": 51,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,26 +48,21 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Health"
     }
   ]

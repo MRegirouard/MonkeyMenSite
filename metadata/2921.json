@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2921.png",
   "tokenId": 2921,
-  "name": "Monkey Men #2921 - Yogi | Score: 177 | Rarity: Common",
+  "name": "Monkey Men #2921 - Ryan | Score: 136 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1496,
+      "value": 2612,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 177,
+      "value": 136,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -58,11 +58,11 @@
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

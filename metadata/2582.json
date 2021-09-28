@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2582.png",
   "tokenId": 2582,
-  "name": "Monkey Men #2582 - Kayson | Score: 82 | Rarity: Common",
+  "name": "Monkey Men #2582 - Vlasta | Score: 115 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3942,
+      "value": 3029,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 82,
+      "value": 115,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,32 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

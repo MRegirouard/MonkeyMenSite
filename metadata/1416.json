@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1416.png",
   "tokenId": 1416,
-  "name": "Monkey Men #1416 - Mudiwa | Score: 142 | Rarity: Common",
+  "name": "Monkey Men #1416 - Giselmund | Score: 78 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2366,
+      "value": 4091,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 142,
+      "value": 78,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,19 +28,19 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -57,13 +57,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
+      "value": 5,
+      "trait_type": "Temperature"
     }
   ]
 }

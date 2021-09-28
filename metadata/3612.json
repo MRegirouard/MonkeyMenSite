@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3612.png",
   "tokenId": 3612,
-  "name": "Monkey Men #3612 - Spencer | Score: 210 | Rarity: Common",
+  "name": "Monkey Men #3612 - Razzle | Score: 142 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 886,
+      "value": 2350,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 210,
+      "value": 142,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1260.png",
   "tokenId": 1260,
-  "name": "Monkey Men #1260 - Clemence | Score: 274 | Rarity: Common",
+  "name": "Monkey Men #1260 - Rabbie | Score: 99 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 298,
+      "value": 3506,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 274,
+      "value": 99,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
@@ -44,26 +44,31 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     }
   ]
 }

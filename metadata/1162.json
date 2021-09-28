@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1162.png",
   "tokenId": 1162,
-  "name": "Monkey Men #1162 - Mawuli | Score: 117 | Rarity: Common",
+  "name": "Monkey Men #1162 - Stana | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2976,
+      "value": 2192,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 117,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,11 +44,11 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -63,11 +63,6 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Strength"
     },
     {

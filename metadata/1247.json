@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1247.png",
   "tokenId": 1247,
-  "name": "Monkey Men #1247 - Ursa | Score: 193 | Rarity: Common",
+  "name": "Monkey Men #1247 - Ermintrude | Score: 206 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1148,
+      "value": 966,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 193,
+      "value": 206,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,36 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Coconut",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -67,12 +62,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

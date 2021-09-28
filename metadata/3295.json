@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3295.png",
   "tokenId": 3295,
-  "name": "Monkey Men #3295 - Boleslava | Score: 109 | Rarity: Common",
+  "name": "Monkey Men #3295 - Blasius | Score: 212 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3308,
+      "value": 814,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 212,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,36 +44,31 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
+      "value": 10,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Health"
     }
   ]
 }

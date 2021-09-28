@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4872.png",
   "tokenId": 4872,
-  "name": "Monkey Men #4872 - Kyros | Score: 148 | Rarity: Common",
+  "name": "Monkey Men #4872 - Fonzie | Score: 68 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2188,
+      "value": 4369,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 148,
+      "value": 68,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,19 +36,19 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -62,8 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4444.png",
   "tokenId": 4444,
-  "name": "Monkey Men #4444 - Lennox | Score: 241 | Rarity: Common",
+  "name": "Monkey Men #4444 - Lag | Score: 144 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 535,
+      "value": 2274,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 241,
+      "value": 144,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,11 +28,11 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
@@ -40,11 +40,11 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,13 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

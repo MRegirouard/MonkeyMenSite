@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/243.png",
   "tokenId": 243,
-  "name": "Monkey Men #243 - Solon | Score: 78 | Rarity: Common",
+  "name": "Monkey Men #243 - Walburga | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4108,
+      "value": 3236,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 78,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,21 +44,26 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "value": 15,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 40,
+      "trait_type": "Money"
     }
   ]
 }

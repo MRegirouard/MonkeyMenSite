@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4850.png",
   "tokenId": 4850,
-  "name": "Monkey Men #4850 - Slate | Score: 90 | Rarity: Common",
+  "name": "Monkey Men #4850 - Mulan | Score: 365 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3693,
+      "value": 30,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 90,
+      "value": 365,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/366.png",
   "tokenId": 366,
-  "name": "Monkey Men #366 - Johano | Score: 90 | Rarity: Common",
+  "name": "Monkey Men #366 - Rubina | Score: 152 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3728,
+      "value": 2016,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 90,
+      "value": 152,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
@@ -44,21 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

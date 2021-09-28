@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4504.png",
   "tokenId": 4504,
-  "name": "Monkey Men #4504 - Sigismund | Score: 80 | Rarity: Common",
+  "name": "Monkey Men #4504 - Steven | Score: 45 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4001,
+      "value": 4660,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 80,
+      "value": 45,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -63,7 +63,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Strength"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1123.png",
   "tokenId": 1123,
-  "name": "Monkey Men #1123 - Wallace | Score: 167 | Rarity: Common",
+  "name": "Monkey Men #1123 - Bathsheba | Score: 119 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1782,
+      "value": 2882,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 167,
+      "value": 119,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Charm"
     }
   ]
 }

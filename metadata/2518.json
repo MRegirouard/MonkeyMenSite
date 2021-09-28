@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2518.png",
   "tokenId": 2518,
-  "name": "Monkey Men #2518 - Snuffles | Score: 111 | Rarity: Common",
+  "name": "Monkey Men #2518 - Sonya | Score: 214 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3113,
+      "value": 778,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 111,
+      "value": 214,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4773.png",
   "tokenId": 4773,
-  "name": "Monkey Men #4773 - Spring | Score: 325 | Rarity: Common",
+  "name": "Monkey Men #4773 - Mash | Score: 227 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 81,
+      "value": 618,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 325,
+      "value": 227,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

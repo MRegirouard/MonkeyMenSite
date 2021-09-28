@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1337.png",
   "tokenId": 1337,
-  "name": "Monkey Men #1337 - Guru | Score: 78 | Rarity: Common",
+  "name": "Monkey Men #1337 - Mayrbek | Score: 177 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4129,
+      "value": 1540,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 78,
+      "value": 177,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
+      "value": 15,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1309.png",
   "tokenId": 1309,
-  "name": "Monkey Men #1309 - Nike | Score: 55 | Rarity: Common",
+  "name": "Monkey Men #1309 - Attikos | Score: 84 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4498,
+      "value": 3810,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 55,
+      "value": 84,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
@@ -40,20 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

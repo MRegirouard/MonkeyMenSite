@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2590.png",
   "tokenId": 2590,
-  "name": "Monkey Men #2590 - Vava | Score: 239 | Rarity: Common",
+  "name": "Monkey Men #2590 - Laurencia | Score: 90 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 554,
+      "value": 3717,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 239,
+      "value": 90,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
     },
     {

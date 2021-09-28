@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/594.png",
   "tokenId": 594,
-  "name": "Monkey Men #594 - Parth | Score: 53 | Rarity: Common",
+  "name": "Monkey Men #594 - Durans | Score: 111 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4542,
+      "value": 3133,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 53,
+      "value": 111,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
@@ -58,7 +58,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4116.png",
   "tokenId": 4116,
-  "name": "Monkey Men #4116 - Niketa | Score: 191 | Rarity: Common",
+  "name": "Monkey Men #4116 - Dash | Score: 214 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1166,
+      "value": 755,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 191,
+      "value": 214,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -63,12 +63,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     }
   ]
 }

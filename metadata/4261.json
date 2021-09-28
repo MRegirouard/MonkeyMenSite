@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4261.png",
   "tokenId": 4261,
-  "name": "Monkey Men #4261 - Kabuki | Score: 113 | Rarity: Common",
+  "name": "Monkey Men #4261 - Fabrizio | Score: 247 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3029,
+      "value": 418,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 113,
+      "value": 247,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -40,40 +40,45 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

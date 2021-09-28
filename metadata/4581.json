@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4581.png",
   "tokenId": 4581,
-  "name": "Monkey Men #4581 - Maggie | Score: 80 | Rarity: Common",
+  "name": "Monkey Men #4581 - Shyamala | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3992,
+      "value": 3383,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 80,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
@@ -64,16 +64,6 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
     },
     {
       "display_type": "boost_number",

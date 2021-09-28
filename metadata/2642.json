@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2642.png",
   "tokenId": 2642,
-  "name": "Monkey Men #2642 - Kenji | Score: 173 | Rarity: Common",
+  "name": "Monkey Men #2642 - Sadie | Score: 138 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1612,
+      "value": 2542,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 173,
+      "value": 138,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,33 +32,33 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Balloon",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +66,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

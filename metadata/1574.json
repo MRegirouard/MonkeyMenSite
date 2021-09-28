@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1574.png",
   "tokenId": 1574,
-  "name": "Monkey Men #1574 - Percy | Score: 70 | Rarity: Common",
+  "name": "Monkey Men #1574 - Coriander | Score: 272 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4294,
+      "value": 304,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 70,
+      "value": 272,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,36 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Empty",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -63,12 +68,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

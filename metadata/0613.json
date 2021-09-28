@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/613.png",
   "tokenId": 613,
-  "name": "Monkey Men #613 - Kaze | Score: 245 | Rarity: Common",
+  "name": "Monkey Men #613 - Ata | Score: 84 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 476,
+      "value": 3830,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 245,
+      "value": 84,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

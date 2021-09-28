@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1235.png",
   "tokenId": 1235,
-  "name": "Monkey Men #1235 - Dizzy | Score: 119 | Rarity: Common",
+  "name": "Monkey Men #1235 - Fionnbharr | Score: 97 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2906,
+      "value": 3574,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 119,
+      "value": 97,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,26 +44,26 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_number",

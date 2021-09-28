@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2383.png",
   "tokenId": 2383,
-  "name": "Monkey Men #2383 - Oier | Score: 55 | Rarity: Common",
+  "name": "Monkey Men #2383 - Hansel | Score: 274 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4482,
+      "value": 284,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 55,
+      "value": 274,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -69,11 +69,6 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

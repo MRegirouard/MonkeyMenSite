@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/400.png",
   "tokenId": 400,
-  "name": "Monkey Men #400 - Stanislav | Score: 16 | Rarity: Common",
+  "name": "Monkey Men #400 - Mawuli | Score: 210 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4912,
+      "value": 848,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 16,
+      "value": 210,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,36 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -63,7 +68,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1598.png",
   "tokenId": 1598,
-  "name": "Monkey Men #1598 - Sabine | Score: 140 | Rarity: Common",
+  "name": "Monkey Men #1598 - Morsel | Score: 41 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2477,
+      "value": 4799,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 140,
+      "value": 41,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,7 +44,7 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,18 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1597.png",
   "tokenId": 1597,
-  "name": "Monkey Men #1597 - Sipho | Score: 158 | Rarity: Common",
+  "name": "Monkey Men #1597 - Iulia | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1911,
+      "value": 2142,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 158,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
@@ -64,11 +64,6 @@
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
     }
   ]
 }

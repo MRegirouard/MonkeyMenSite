@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4723.png",
   "tokenId": 4723,
-  "name": "Monkey Men #4723 - General | Score: 156 | Rarity: Common",
+  "name": "Monkey Men #4723 - Minta | Score: 138 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1930,
+      "value": 2546,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 156,
+      "value": 138,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 40,
+      "trait_type": "Money"
     }
   ]
 }

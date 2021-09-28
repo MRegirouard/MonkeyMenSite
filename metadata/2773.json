@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2773.png",
   "tokenId": 2773,
-  "name": "Monkey Men #2773 - Mitzi | Score: 103 | Rarity: Common",
+  "name": "Monkey Men #2773 - Mister | Score: 229 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3455,
+      "value": 606,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 103,
+      "value": 229,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
@@ -32,43 +32,43 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

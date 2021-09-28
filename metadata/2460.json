@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2460.png",
   "tokenId": 2460,
-  "name": "Monkey Men #2460 - Greenie | Score: 119 | Rarity: Common",
+  "name": "Monkey Men #2460 - Navi | Score: 68 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2871,
+      "value": 4385,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 119,
+      "value": 68,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
@@ -48,32 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

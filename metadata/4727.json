@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4727.png",
   "tokenId": 4727,
-  "name": "Monkey Men #4727 - Booker | Score: 181 | Rarity: Common",
+  "name": "Monkey Men #4727 - Mani | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1362,
+      "value": 2181,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 181,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -44,30 +44,30 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Health"
     }
   ]

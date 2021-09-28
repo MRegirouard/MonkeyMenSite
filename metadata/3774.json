@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3774.png",
   "tokenId": 3774,
-  "name": "Monkey Men #3774 - Boo | Score: 167 | Rarity: Common",
+  "name": "Monkey Men #3774 - London | Score: 202 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1839,
+      "value": 1007,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 167,
+      "value": 202,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
@@ -32,33 +32,48 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

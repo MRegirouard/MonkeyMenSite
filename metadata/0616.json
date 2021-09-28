@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/616.png",
   "tokenId": 616,
-  "name": "Monkey Men #616 - Haiku | Score: 99 | Rarity: Common",
+  "name": "Monkey Men #616 - Maru | Score: 70 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3545,
+      "value": 4326,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 99,
+      "value": 70,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,29 +36,34 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -67,7 +72,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

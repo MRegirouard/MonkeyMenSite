@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2849.png",
   "tokenId": 2849,
-  "name": "Monkey Men #2849 - Derek | Score: 150 | Rarity: Common",
+  "name": "Monkey Men #2849 - Tenchu | Score: 226 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2060,
+      "value": 627,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 150,
+      "value": 226,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
     }
   ]
 }

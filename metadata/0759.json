@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/759.png",
   "tokenId": 759,
-  "name": "Monkey Men #759 - Mana | Score: 152 | Rarity: Common",
+  "name": "Monkey Men #759 - Chandana | Score: 51 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2039,
+      "value": 4562,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 152,
+      "value": 51,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/862.png",
   "tokenId": 862,
-  "name": "Monkey Men #862 - Matthieu | Score: 206 | Rarity: Common",
+  "name": "Monkey Men #862 - Alaina | Score: 55 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1009,
+      "value": 4445,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 206,
+      "value": 55,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,18 +57,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

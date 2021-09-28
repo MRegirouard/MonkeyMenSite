@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2797.png",
   "tokenId": 2797,
-  "name": "Monkey Men #2797 - Punk | Score: 185 | Rarity: Common",
+  "name": "Monkey Men #2797 - Hemingway | Score: 210 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1269,
+      "value": 851,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 185,
+      "value": 210,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
@@ -44,36 +44,16 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Empty",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

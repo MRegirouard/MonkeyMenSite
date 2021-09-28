@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2864.png",
   "tokenId": 2864,
-  "name": "Monkey Men #2864 - Milani | Score: 148 | Rarity: Common",
+  "name": "Monkey Men #2864 - Wrigley | Score: 196 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2203,
+      "value": 1106,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 148,
+      "value": 196,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
@@ -44,21 +44,31 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

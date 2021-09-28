@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/50.png",
   "tokenId": 50,
-  "name": "Monkey Men #50 - Marlin | Score: 220 | Rarity: Common",
+  "name": "Monkey Men #50 - Jurgita | Score: 160 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 720,
+      "value": 1867,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 220,
+      "value": 160,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -52,23 +52,33 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "value": 10,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

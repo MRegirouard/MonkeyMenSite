@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1853.png",
   "tokenId": 1853,
-  "name": "Monkey Men #1853 - Maurizia | Score: 18 | Rarity: Common",
+  "name": "Monkey Men #1853 - Zion | Score: 80 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4897,
+      "value": 4063,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 18,
+      "value": 80,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,11 +28,11 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
@@ -40,7 +40,7 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -52,8 +52,13 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Money",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +71,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

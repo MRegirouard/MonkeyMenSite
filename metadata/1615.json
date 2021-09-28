@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1615.png",
   "tokenId": 1615,
-  "name": "Monkey Men #1615 - Erika | Score: 43 | Rarity: Common",
+  "name": "Monkey Men #1615 - Sirena | Score: 80 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4793,
+      "value": 4069,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 43,
+      "value": 80,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,19 +28,19 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,17 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

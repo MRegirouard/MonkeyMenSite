@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3738.png",
   "tokenId": 3738,
-  "name": "Monkey Men #3738 - Narseh | Score: 205 | Rarity: Common",
+  "name": "Monkey Men #3738 - Rembrandt | Score: 241 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1011,
+      "value": 500,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 205,
+      "value": 241,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,29 +36,24 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Grapes",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -67,12 +62,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

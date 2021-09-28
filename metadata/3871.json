@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3871.png",
   "tokenId": 3871,
-  "name": "Monkey Men #3871 - Valiantsina | Score: 181 | Rarity: Common",
+  "name": "Monkey Men #3871 - Allie | Score: 80 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1364,
+      "value": 4001,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 181,
+      "value": 80,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
@@ -32,43 +32,43 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
+      "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

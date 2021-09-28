@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2993.png",
   "tokenId": 2993,
-  "name": "Monkey Men #2993 - Jesse | Score: 138 | Rarity: Common",
+  "name": "Monkey Men #2993 - Eymen | Score: 156 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2496,
+      "value": 1925,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 138,
+      "value": 156,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
@@ -44,36 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

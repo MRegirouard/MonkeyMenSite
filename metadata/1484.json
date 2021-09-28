@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1484.png",
   "tokenId": 1484,
-  "name": "Monkey Men #1484 - Wally | Score: 210 | Rarity: Common",
+  "name": "Monkey Men #1484 - Kemp | Score: 245 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 859,
+      "value": 461,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 210,
+      "value": 245,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,27 +32,27 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
@@ -62,18 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Temperature"
     }
   ]
 }

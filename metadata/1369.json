@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1369.png",
   "tokenId": 1369,
-  "name": "Monkey Men #1369 - Alisher | Score: 371 | Rarity: Common",
+  "name": "Monkey Men #1369 - Dilshod | Score: 181 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 25,
+      "value": 1333,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 371,
+      "value": 181,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,40 +24,40 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
@@ -72,13 +72,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

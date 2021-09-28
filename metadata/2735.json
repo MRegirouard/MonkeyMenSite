@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2735.png",
   "tokenId": 2735,
-  "name": "Monkey Men #2735 - Asher | Score: 148 | Rarity: Common",
+  "name": "Monkey Men #2735 - Butrus | Score: 117 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2158,
+      "value": 2966,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 148,
+      "value": 117,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -40,7 +40,7 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -52,12 +52,12 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
       "trait_type": "Charm"
     },
     {

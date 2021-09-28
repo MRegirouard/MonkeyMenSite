@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/215.png",
   "tokenId": 215,
-  "name": "Monkey Men #215 - Shelley | Score: 200 | Rarity: Common",
+  "name": "Monkey Men #215 - Brindle | Score: 158 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1047,
+      "value": 1909,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 200,
+      "value": 158,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,28 +32,33 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Money",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -62,13 +67,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

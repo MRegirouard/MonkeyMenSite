@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1436.png",
   "tokenId": 1436,
-  "name": "Monkey Men #1436 - Ingram | Score: 45 | Rarity: Common",
+  "name": "Monkey Men #1436 - Loreta | Score: 170 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4676,
+      "value": 1677,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 45,
+      "value": 170,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,41 +28,56 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
     }
   ]

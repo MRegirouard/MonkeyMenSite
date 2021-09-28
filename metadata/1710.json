@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1710.png",
   "tokenId": 1710,
-  "name": "Monkey Men #1710 - Stitches | Score: 14 | Rarity: Common",
+  "name": "Monkey Men #1710 - Dinesha | Score: 187 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4959,
+      "value": 1219,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 14,
+      "value": 187,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,40 +24,50 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 15,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
     }
   ]

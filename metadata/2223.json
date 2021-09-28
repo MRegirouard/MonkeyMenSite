@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2223.png",
   "tokenId": 2223,
-  "name": "Monkey Men #2223 - Ox | Score: 115 | Rarity: Common",
+  "name": "Monkey Men #2223 - Surge | Score: 92 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3024,
+      "value": 3643,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 115,
+      "value": 92,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,21 +48,26 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Health"
     }
   ]

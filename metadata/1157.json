@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1157.png",
   "tokenId": 1157,
-  "name": "Monkey Men #1157 - Nana | Score: 107 | Rarity: Common",
+  "name": "Monkey Men #1157 - Thyrza | Score: 183 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3384,
+      "value": 1300,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 107,
+      "value": 183,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -36,39 +36,39 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     }
   ]
 }

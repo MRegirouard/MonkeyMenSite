@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1194.png",
   "tokenId": 1194,
-  "name": "Monkey Men #1194 - Camilla | Score: 111 | Rarity: Common",
+  "name": "Monkey Men #1194 - Flint | Score: 84 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3158,
+      "value": 3771,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 111,
+      "value": 84,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -32,23 +32,23 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,8 +57,18 @@
     },
     {
       "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

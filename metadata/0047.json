@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/47.png",
   "tokenId": 47,
-  "name": "Monkey Men #47 - Niraj | Score: 70 | Rarity: Common",
+  "name": "Monkey Men #47 - Slayer | Score: 74 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4356,
+      "value": 4174,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 70,
+      "value": 74,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,19 +32,19 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,23 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_number",

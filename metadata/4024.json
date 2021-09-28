@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4024.png",
   "tokenId": 4024,
-  "name": "Monkey Men #4024 - Gracie | Score: 200 | Rarity: Common",
+  "name": "Monkey Men #4024 - Tiger | Score: 208 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1049,
+      "value": 919,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 200,
+      "value": 208,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
@@ -40,15 +40,15 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
@@ -67,12 +67,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "value": 10,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_number",
-      "value": 20,
+      "value": 40,
       "trait_type": "Money"
     }
   ]

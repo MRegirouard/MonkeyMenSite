@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4618.png",
   "tokenId": 4618,
-  "name": "Monkey Men #4618 - Andrea | Score: 181 | Rarity: Common",
+  "name": "Monkey Men #4618 - Simon | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1319,
+      "value": 2140,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 181,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,26 +44,31 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

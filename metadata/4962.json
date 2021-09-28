@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4962.png",
   "tokenId": 4962,
-  "name": "Monkey Men #4962 - Sandra | Score: 90 | Rarity: Common",
+  "name": "Monkey Men #4962 - Jiles | Score: 68 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3684,
+      "value": 4364,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 90,
+      "value": 68,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
@@ -63,12 +63,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

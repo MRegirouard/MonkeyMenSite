@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3510.png",
   "tokenId": 3510,
-  "name": "Monkey Men #3510 - Nikki | Score: 152 | Rarity: Common",
+  "name": "Monkey Men #3510 - Ingegerd | Score: 276 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2016,
+      "value": 273,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 152,
+      "value": 276,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -32,33 +32,48 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

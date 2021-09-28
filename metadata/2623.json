@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2623.png",
   "tokenId": 2623,
-  "name": "Monkey Men #2623 - Sneak | Score: 70 | Rarity: Common",
+  "name": "Monkey Men #2623 - Antigonus | Score: 68 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4344,
+      "value": 4374,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 70,
+      "value": 68,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -44,21 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

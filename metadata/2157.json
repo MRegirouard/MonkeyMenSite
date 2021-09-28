@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2157.png",
   "tokenId": 2157,
-  "name": "Monkey Men #2157 - Kala | Score: 270 | Rarity: Common",
+  "name": "Monkey Men #2157 - Claudia | Score: 133 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 310,
+      "value": 2653,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 270,
+      "value": 133,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -40,35 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 15,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 40,
-      "trait_type": "Money"
     }
   ]
 }

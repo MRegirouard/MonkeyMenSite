@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2027.png",
   "tokenId": 2027,
-  "name": "Monkey Men #2027 - Damjana | Score: 99 | Rarity: Common",
+  "name": "Monkey Men #2027 - Aladdin | Score: 131 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3550,
+      "value": 2662,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 99,
+      "value": 131,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -32,38 +32,43 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     }
   ]
 }

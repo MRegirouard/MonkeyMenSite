@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/956.png",
   "tokenId": 956,
-  "name": "Monkey Men #956 - Aparna | Score: 150 | Rarity: Common",
+  "name": "Monkey Men #956 - Sin | Score: 162 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2085,
+      "value": 1860,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 150,
+      "value": 162,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -62,18 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

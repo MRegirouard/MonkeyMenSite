@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2280.png",
   "tokenId": 2280,
-  "name": "Monkey Men #2280 - Yanna | Score: 206 | Rarity: Common",
+  "name": "Monkey Men #2280 - Panda | Score: 181 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 979,
+      "value": 1364,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 206,
+      "value": 181,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,36 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Phone",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -67,8 +62,18 @@
     },
     {
       "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

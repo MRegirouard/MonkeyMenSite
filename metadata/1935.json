@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1935.png",
   "tokenId": 1935,
-  "name": "Monkey Men #1935 - Bane | Score: 154 | Rarity: Common",
+  "name": "Monkey Men #1935 - Melvin | Score: 268 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1980,
+      "value": 321,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 154,
+      "value": 268,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
@@ -67,13 +67,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

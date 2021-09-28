@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4480.png",
   "tokenId": 4480,
-  "name": "Monkey Men #4480 - Nanuli | Score: 177 | Rarity: Common",
+  "name": "Monkey Men #4480 - Camelia | Score: 70 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1519,
+      "value": 4355,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 177,
+      "value": 70,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -64,6 +64,16 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

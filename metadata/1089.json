@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1089.png",
   "tokenId": 1089,
-  "name": "Monkey Men #1089 - Heinrike | Score: 305 | Rarity: Common",
+  "name": "Monkey Men #1089 - Hooch | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 137,
+      "value": 3229,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 305,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 20,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

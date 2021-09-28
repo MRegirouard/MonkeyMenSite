@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2690.png",
   "tokenId": 2690,
-  "name": "Monkey Men #2690 - Adelaida | Score: 187 | Rarity: Common",
+  "name": "Monkey Men #2690 - Organic | Score: 76 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1213,
+      "value": 4149,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 187,
+      "value": 76,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
@@ -36,29 +36,34 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

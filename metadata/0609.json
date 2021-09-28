@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/609.png",
   "tokenId": 609,
-  "name": "Monkey Men #609 - Yemima | Score: 169 | Rarity: Common",
+  "name": "Monkey Men #609 - Tal | Score: 121 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1752,
+      "value": 2803,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 169,
+      "value": 121,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
@@ -40,20 +40,30 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

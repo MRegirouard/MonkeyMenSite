@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2256.png",
   "tokenId": 2256,
-  "name": "Monkey Men #2256 - Moxie | Score: 82 | Rarity: Common",
+  "name": "Monkey Men #2256 - Yvonne | Score: 80 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3852,
+      "value": 4049,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 82,
+      "value": 80,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,15 +36,15 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -63,7 +63,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

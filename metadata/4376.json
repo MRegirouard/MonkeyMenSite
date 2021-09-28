@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4376.png",
   "tokenId": 4376,
-  "name": "Monkey Men #4376 - Chic | Score: 134 | Rarity: Common",
+  "name": "Monkey Men #4376 - Sophia | Score: 150 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2653,
+      "value": 2075,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 134,
+      "value": 150,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
@@ -52,33 +52,23 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

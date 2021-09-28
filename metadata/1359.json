@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1359.png",
   "tokenId": 1359,
-  "name": "Monkey Men #1359 - Chevy | Score: 152 | Rarity: Common",
+  "name": "Monkey Men #1359 - Augustinas | Score: 193 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2004,
+      "value": 1132,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 152,
+      "value": 193,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 10,
+      "trait_type": "Temperature"
     },
     {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

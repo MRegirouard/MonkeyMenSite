@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1476.png",
   "tokenId": 1476,
-  "name": "Monkey Men #1476 - Archer | Score: 53 | Rarity: Common",
+  "name": "Monkey Men #1476 - Anita | Score: 130 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4534,
+      "value": 2672,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 53,
+      "value": 130,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,11 +44,11 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -58,16 +58,21 @@
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

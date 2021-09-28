@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3501.png",
   "tokenId": 3501,
-  "name": "Monkey Men #3501 - Snagglepuss | Score: 274 | Rarity: Common",
+  "name": "Monkey Men #3501 - Giunone | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 301,
+      "value": 3250,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 274,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,12 +62,17 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

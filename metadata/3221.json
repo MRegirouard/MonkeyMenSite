@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3221.png",
   "tokenId": 3221,
-  "name": "Monkey Men #3221 - Michel | Score: 41 | Rarity: Common",
+  "name": "Monkey Men #3221 - Niki | Score: 84 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4809,
+      "value": 3809,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 41,
+      "value": 84,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -44,11 +44,11 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -57,18 +57,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

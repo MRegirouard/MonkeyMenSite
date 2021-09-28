@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4304.png",
   "tokenId": 4304,
-  "name": "Monkey Men #4304 - Kit | Score: 160 | Rarity: Common",
+  "name": "Monkey Men #4304 - Destini | Score: 237 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1882,
+      "value": 536,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 160,
+      "value": 237,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,60 +24,40 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Health"
     }
   ]

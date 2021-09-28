@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3214.png",
   "tokenId": 3214,
-  "name": "Monkey Men #3214 - Sully | Score: 276 | Rarity: Common",
+  "name": "Monkey Men #3214 - Floppy | Score: 156 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 286,
+      "value": 1917,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 276,
+      "value": 156,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -62,13 +62,23 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

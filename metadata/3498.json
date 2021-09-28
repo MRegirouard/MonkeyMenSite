@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3498.png",
   "tokenId": 3498,
-  "name": "Monkey Men #3498 - Judy | Score: 233 | Rarity: Common",
+  "name": "Monkey Men #3498 - Samwise | Score: 113 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 632,
+      "value": 3084,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 233,
+      "value": 113,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,26 +48,31 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
     }
   ]

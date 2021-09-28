@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4889.png",
   "tokenId": 4889,
-  "name": "Monkey Men #4889 - Senna | Score: 169 | Rarity: Common",
+  "name": "Monkey Men #4889 - Missy | Score: 43 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1704,
+      "value": 4717,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 169,
+      "value": 43,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
@@ -32,19 +32,19 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -62,13 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     }
   ]
 }

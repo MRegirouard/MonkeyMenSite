@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1144.png",
   "tokenId": 1144,
-  "name": "Monkey Men #1144 - Tucker | Score: 138 | Rarity: Common",
+  "name": "Monkey Men #1144 - Zora | Score: 80 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2507,
+      "value": 3977,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 138,
+      "value": 80,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

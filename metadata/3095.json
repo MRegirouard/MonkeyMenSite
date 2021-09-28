@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3095.png",
   "tokenId": 3095,
-  "name": "Monkey Men #3095 - Lionel | Score: 86 | Rarity: Common",
+  "name": "Monkey Men #3095 - Aiken | Score: 183 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3766,
+      "value": 1311,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 86,
+      "value": 183,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -48,16 +48,16 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
@@ -67,7 +67,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
     }
   ]

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4023.png",
   "tokenId": 4023,
-  "name": "Monkey Men #4023 - Thumper | Score: 150 | Rarity: Common",
+  "name": "Monkey Men #4023 - Tucker | Score: 198 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2091,
+      "value": 1055,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 150,
+      "value": 198,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -69,6 +69,11 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

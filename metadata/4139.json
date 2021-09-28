@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4139.png",
   "tokenId": 4139,
-  "name": "Monkey Men #4139 - Zephaniah | Score: 45 | Rarity: Common",
+  "name": "Monkey Men #4139 - Albinus | Score: 179 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4681,
+      "value": 1439,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 45,
+      "value": 179,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
@@ -62,12 +62,17 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Health"
     }
   ]

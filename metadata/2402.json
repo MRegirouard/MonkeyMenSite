@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2402.png",
   "tokenId": 2402,
-  "name": "Monkey Men #2402 - Kenelm | Score: 148 | Rarity: Common",
+  "name": "Monkey Men #2402 - Maximiliana | Score: 150 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2198,
+      "value": 2066,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 148,
+      "value": 150,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -44,16 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -62,13 +67,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "value": 5,
+      "trait_type": "Strength"
     }
   ]
 }

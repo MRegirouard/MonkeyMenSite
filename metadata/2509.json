@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2509.png",
   "tokenId": 2509,
-  "name": "Monkey Men #2509 - Serapion | Score: 117 | Rarity: Common",
+  "name": "Monkey Men #2509 - Diadumenianus | Score: 152 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2963,
+      "value": 2025,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 117,
+      "value": 152,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
@@ -44,21 +44,16 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -67,7 +62,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
     }
   ]

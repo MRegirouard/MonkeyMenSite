@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4400.png",
   "tokenId": 4400,
-  "name": "Monkey Men #4400 - Hammer | Score: 206 | Rarity: Common",
+  "name": "Monkey Men #4400 - Talia | Score: 86 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 997,
+      "value": 3767,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 206,
+      "value": 86,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -44,7 +44,7 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,18 +52,13 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

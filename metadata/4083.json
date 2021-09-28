@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4083.png",
   "tokenId": 4083,
-  "name": "Monkey Men #4083 - Hoa | Score: 169 | Rarity: Common",
+  "name": "Monkey Men #4083 - Alexus | Score: 45 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1734,
+      "value": 4678,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 169,
+      "value": 45,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,32 +48,22 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

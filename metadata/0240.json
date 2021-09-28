@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/240.png",
   "tokenId": 240,
-  "name": "Monkey Men #240 - Heroides | Score: 82 | Rarity: Common",
+  "name": "Monkey Men #240 - Curtis | Score: 127 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3902,
+      "value": 2723,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 82,
+      "value": 127,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -48,21 +48,26 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Health"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4849.png",
   "tokenId": 4849,
-  "name": "Monkey Men #4849 - Trai | Score: 109 | Rarity: Common",
+  "name": "Monkey Men #4849 - Chief | Score: 94 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3221,
+      "value": 3618,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 94,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -40,20 +40,30 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
       "value": "Apple",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

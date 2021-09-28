@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/133.png",
   "tokenId": 133,
-  "name": "Monkey Men #133 - Terrie | Score: 210 | Rarity: Common",
+  "name": "Monkey Men #133 - Nelson | Score: 74 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 876,
+      "value": 4207,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 210,
+      "value": 74,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -48,16 +48,16 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 10,
       "trait_type": "Charm"
     },
     {

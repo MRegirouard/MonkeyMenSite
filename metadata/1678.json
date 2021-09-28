@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1678.png",
   "tokenId": 1678,
-  "name": "Monkey Men #1678 - Nacho | Score: 16 | Rarity: Common",
+  "name": "Monkey Men #1678 - Swarna | Score: 97 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4940,
+      "value": 3587,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 16,
+      "value": 97,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,7 +28,7 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
@@ -48,22 +48,32 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

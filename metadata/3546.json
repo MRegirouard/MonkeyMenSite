@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3546.png",
   "tokenId": 3546,
-  "name": "Monkey Men #3546 - Danielius | Score: 276 | Rarity: Common",
+  "name": "Monkey Men #3546 - Gia | Score: 138 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 289,
+      "value": 2533,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 276,
+      "value": 138,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,39 +36,24 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

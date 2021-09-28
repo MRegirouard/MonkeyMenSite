@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1461.png",
   "tokenId": 1461,
-  "name": "Monkey Men #1461 - Shanthi | Score: 138 | Rarity: Common",
+  "name": "Monkey Men #1461 - Potato | Score: 167 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2561,
+      "value": 1785,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 138,
+      "value": 167,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -40,20 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Empty",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

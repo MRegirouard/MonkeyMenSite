@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2549.png",
   "tokenId": 2549,
-  "name": "Monkey Men #2549 - Kristiina | Score: 177 | Rarity: Common",
+  "name": "Monkey Men #2549 - Blue | Score: 97 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1551,
+      "value": 3558,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 177,
+      "value": 97,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -36,44 +36,24 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/680.png",
   "tokenId": 680,
-  "name": "Monkey Men #680 - Clue | Score: 264 | Rarity: Common",
+  "name": "Monkey Men #680 - Magnum | Score: 253 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 364,
+      "value": 378,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 264,
+      "value": 253,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,12 +57,22 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Health"
     }
   ]

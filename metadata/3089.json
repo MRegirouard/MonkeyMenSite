@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3089.png",
   "tokenId": 3089,
-  "name": "Monkey Men #3089 - Harley | Score: 101 | Rarity: Common",
+  "name": "Monkey Men #3089 - Pylyp | Score: 41 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3508,
+      "value": 4852,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 101,
+      "value": 41,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,27 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Health"
     }
   ]
 }

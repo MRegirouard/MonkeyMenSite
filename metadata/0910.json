@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/910.png",
   "tokenId": 910,
-  "name": "Monkey Men #910 - Braidy | Score: 80 | Rarity: Common",
+  "name": "Monkey Men #910 - Polo | Score: 55 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4068,
+      "value": 4483,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 80,
+      "value": 55,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,7 +28,7 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,34 +36,24 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

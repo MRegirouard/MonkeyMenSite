@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1503.png",
   "tokenId": 1503,
-  "name": "Monkey Men #1503 - Lily | Score: 43 | Rarity: Common",
+  "name": "Monkey Men #1503 - Nataliya | Score: 121 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4718,
+      "value": 2834,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 43,
+      "value": 121,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -44,11 +44,11 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,8 +57,23 @@
     },
     {
       "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3003.png",
   "tokenId": 3003,
-  "name": "Monkey Men #3003 - Saliha | Score: 146 | Rarity: Common",
+  "name": "Monkey Men #3003 - Artemis | Score: 167 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2262,
+      "value": 1771,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 146,
+      "value": 167,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,22 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

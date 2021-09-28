@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/823.png",
   "tokenId": 823,
-  "name": "Monkey Men #823 - Mikaela | Score: 214 | Rarity: Common",
+  "name": "Monkey Men #823 - Monk | Score: 138 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 829,
+      "value": 2504,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 214,
+      "value": 138,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

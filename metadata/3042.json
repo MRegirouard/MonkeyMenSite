@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3042.png",
   "tokenId": 3042,
-  "name": "Monkey Men #3042 - Trixy | Score: 109 | Rarity: Common",
+  "name": "Monkey Men #3042 - Pipsy | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3325,
+      "value": 2164,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -62,13 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 15,
+      "trait_type": "Style"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

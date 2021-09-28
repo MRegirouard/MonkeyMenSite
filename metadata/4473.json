@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4473.png",
   "tokenId": 4473,
-  "name": "Monkey Men #4473 - Inca | Score: 247 | Rarity: Common",
+  "name": "Monkey Men #4473 - Kevin | Score: 140 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 437,
+      "value": 2424,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 247,
+      "value": 140,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -36,39 +36,39 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Health"
     }
   ]
 }

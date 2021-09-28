@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1705.png",
   "tokenId": 1705,
-  "name": "Monkey Men #1705 - Buttercup | Score: 280 | Rarity: Common",
+  "name": "Monkey Men #1705 - Cotton | Score: 338 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 234,
+      "value": 75,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 280,
+      "value": 338,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,16 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Grapes",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -62,12 +67,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

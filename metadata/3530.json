@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3530.png",
   "tokenId": 3530,
-  "name": "Monkey Men #3530 - Ramazan | Score: 210 | Rarity: Common",
+  "name": "Monkey Men #3530 - Jackson | Score: 41 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 863,
+      "value": 4803,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 210,
+      "value": 41,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,22 +48,22 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

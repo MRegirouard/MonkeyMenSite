@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1524.png",
   "tokenId": 1524,
-  "name": "Monkey Men #1524 - Biggie | Score: 84 | Rarity: Common",
+  "name": "Monkey Men #1524 - Nakita | Score: 86 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3807,
+      "value": 3763,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 84,
+      "value": 86,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -62,8 +62,23 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

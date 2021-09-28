@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1070.png",
   "tokenId": 1070,
-  "name": "Monkey Men #1070 - Matlock | Score: 158 | Rarity: Common",
+  "name": "Monkey Men #1070 - Govind | Score: 344 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1908,
+      "value": 63,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 158,
+      "value": 344,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -44,16 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Grapes",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -63,12 +68,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3192.png",
   "tokenId": 3192,
-  "name": "Monkey Men #3192 - Gweneth | Score: 53 | Rarity: Common",
+  "name": "Monkey Men #3192 - Congo | Score: 206 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4531,
+      "value": 956,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 53,
+      "value": 206,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -67,8 +67,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

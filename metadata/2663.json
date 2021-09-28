@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2663.png",
   "tokenId": 2663,
-  "name": "Monkey Men #2663 - Wasim | Score: 126 | Rarity: Common",
+  "name": "Monkey Men #2663 - Wink | Score: 53 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2750,
+      "value": 4505,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 126,
+      "value": 53,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,19 +28,19 @@
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,27 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "value": 10,
+      "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

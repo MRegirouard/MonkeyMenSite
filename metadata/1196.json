@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1196.png",
   "tokenId": 1196,
-  "name": "Monkey Men #1196 - Liupold | Score: 154 | Rarity: Common",
+  "name": "Monkey Men #1196 - Lacy | Score: 80 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1986,
+      "value": 3966,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 154,
+      "value": 80,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,17 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

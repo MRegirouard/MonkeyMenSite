@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/849.png",
   "tokenId": 849,
-  "name": "Monkey Men #849 - Emmy | Score: 68 | Rarity: Common",
+  "name": "Monkey Men #849 - Heroides | Score: 194 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4386,
+      "value": 1115,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 68,
+      "value": 194,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
@@ -58,17 +58,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

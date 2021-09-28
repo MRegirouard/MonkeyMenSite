@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4502.png",
   "tokenId": 4502,
-  "name": "Monkey Men #4502 - Betty | Score: 43 | Rarity: Common",
+  "name": "Monkey Men #4502 - Iman | Score: 152 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4722,
+      "value": 2031,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 43,
+      "value": 152,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -48,22 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

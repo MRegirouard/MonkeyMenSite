@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4828.png",
   "tokenId": 4828,
-  "name": "Monkey Men #4828 - Pomare | Score: 130 | Rarity: Common",
+  "name": "Monkey Men #4828 - Tuncay | Score: 45 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2688,
+      "value": 4650,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 130,
+      "value": 45,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
@@ -40,15 +40,15 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -62,8 +62,18 @@
     },
     {
       "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

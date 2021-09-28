@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4241.png",
   "tokenId": 4241,
-  "name": "Monkey Men #4241 - Phoebe | Score: 226 | Rarity: Common",
+  "name": "Monkey Men #4241 - Goofy | Score: 101 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 678,
+      "value": 3466,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 226,
+      "value": 101,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,18 +52,13 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

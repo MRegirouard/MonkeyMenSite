@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/465.png",
   "tokenId": 465,
-  "name": "Monkey Men #465 - Elke | Score: 268 | Rarity: Common",
+  "name": "Monkey Men #465 - Nicklas | Score: 241 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 323,
+      "value": 508,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 268,
+      "value": 241,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
@@ -32,23 +32,23 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -57,18 +57,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "value": 10,
+      "trait_type": "Charm"
     }
   ]
 }

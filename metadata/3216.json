@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3216.png",
   "tokenId": 3216,
-  "name": "Monkey Men #3216 - Huck | Score: 121 | Rarity: Common",
+  "name": "Monkey Men #3216 - Angeliki | Score: 111 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2840,
+      "value": 3137,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 121,
+      "value": 111,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
@@ -44,21 +44,31 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 15,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 40,
+      "trait_type": "Money"
     }
   ]
 }

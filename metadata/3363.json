@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3363.png",
   "tokenId": 3363,
-  "name": "Monkey Men #3363 - Hariman | Score: 303 | Rarity: Common",
+  "name": "Monkey Men #3363 - Bedivere | Score: 196 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 162,
+      "value": 1096,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 303,
+      "value": 196,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
@@ -32,43 +32,38 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
     },
     {
       "display_type": "boost_number",

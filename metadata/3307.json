@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3307.png",
   "tokenId": 3307,
-  "name": "Monkey Men #3307 - Howard | Score: 92 | Rarity: Common",
+  "name": "Monkey Men #3307 - Geo | Score: 216 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3663,
+      "value": 733,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 92,
+      "value": 216,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,16 +48,16 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {

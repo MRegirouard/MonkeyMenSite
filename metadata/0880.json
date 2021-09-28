@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/880.png",
   "tokenId": 880,
-  "name": "Monkey Men #880 - AJ | Score: 200 | Rarity: Common",
+  "name": "Monkey Men #880 - Rajnish | Score: 45 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1055,
+      "value": 4684,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 200,
+      "value": 45,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,36 +44,26 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Strength"
     }
   ]
 }

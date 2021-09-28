@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4196.png",
   "tokenId": 4196,
-  "name": "Monkey Men #4196 - Priam | Score: 200 | Rarity: Common",
+  "name": "Monkey Men #4196 - Mo | Score: 111 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1042,
+      "value": 3112,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 200,
+      "value": 111,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -67,18 +67,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

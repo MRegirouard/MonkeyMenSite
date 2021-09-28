@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2588.png",
   "tokenId": 2588,
-  "name": "Monkey Men #2588 - Chet | Score: 74 | Rarity: Common",
+  "name": "Monkey Men #2588 - Magnet | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4172,
+      "value": 3295,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 74,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,21 +44,16 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Flower",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

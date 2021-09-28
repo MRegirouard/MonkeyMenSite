@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4450.png",
   "tokenId": 4450,
-  "name": "Monkey Men #4450 - Gunne | Score: 208 | Rarity: Common",
+  "name": "Monkey Men #4450 - Carl | Score: 247 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 948,
+      "value": 450,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 208,
+      "value": 247,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
@@ -36,44 +36,39 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Strength"
     }
   ]
 }

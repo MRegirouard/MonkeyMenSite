@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3177.png",
   "tokenId": 3177,
-  "name": "Monkey Men #3177 - Clive | Score: 200 | Rarity: Common",
+  "name": "Monkey Men #3177 - Kuma | Score: 158 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1063,
+      "value": 1904,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 200,
+      "value": 158,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -67,8 +67,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

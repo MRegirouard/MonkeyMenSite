@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4479.png",
   "tokenId": 4479,
-  "name": "Monkey Men #4479 - Keke | Score: 111 | Rarity: Common",
+  "name": "Monkey Men #4479 - Papa | Score: 156 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3123,
+      "value": 1952,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 111,
+      "value": 156,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
@@ -44,26 +44,31 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Coconut",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

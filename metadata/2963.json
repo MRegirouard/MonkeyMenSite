@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2963.png",
   "tokenId": 2963,
-  "name": "Monkey Men #2963 - Lynn | Score: 84 | Rarity: Common",
+  "name": "Monkey Men #2963 - Dillan | Score: 156 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3809,
+      "value": 1932,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 84,
+      "value": 156,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,31 +44,26 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 15,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Style"
     }
   ]
 }

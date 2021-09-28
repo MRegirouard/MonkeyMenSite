@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4780.png",
   "tokenId": 4780,
-  "name": "Monkey Men #4780 - Cali | Score: 249 | Rarity: Common",
+  "name": "Monkey Men #4780 - Optic | Score: 105 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 430,
+      "value": 3416,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 249,
+      "value": 105,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,41 +28,46 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Health"
     }
   ]

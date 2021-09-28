@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1074.png",
   "tokenId": 1074,
-  "name": "Monkey Men #1074 - Aretha | Score: 53 | Rarity: Common",
+  "name": "Monkey Men #1074 - Phoenix | Score: 247 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4518,
+      "value": 442,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 53,
+      "value": 247,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
@@ -40,35 +40,30 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 20,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4981.png",
   "tokenId": 4981,
-  "name": "Monkey Men #4981 - Yang | Score: 225 | Rarity: Common",
+  "name": "Monkey Men #4981 - Barley | Score: 115 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 687,
+      "value": 2990,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 225,
+      "value": 115,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,16 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Apple",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -63,16 +68,11 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

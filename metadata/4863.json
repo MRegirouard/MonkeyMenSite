@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4863.png",
   "tokenId": 4863,
-  "name": "Monkey Men #4863 - Sabah | Score: 152 | Rarity: Common",
+  "name": "Monkey Men #4863 - Sylvia | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2048,
+      "value": 2167,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 152,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -44,16 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Leaf",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/373.png",
   "tokenId": 373,
-  "name": "Monkey Men #373 - Ireneus | Score: 101 | Rarity: Common",
+  "name": "Monkey Men #373 - Hameed | Score: 121 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3466,
+      "value": 2782,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 101,
+      "value": 121,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -68,12 +68,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

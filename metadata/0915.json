@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/915.png",
   "tokenId": 915,
-  "name": "Monkey Men #915 - Najma | Score: 152 | Rarity: Common",
+  "name": "Monkey Men #915 - Bubbles | Score: 218 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2001,
+      "value": 688,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 152,
+      "value": 218,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,31 +48,26 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

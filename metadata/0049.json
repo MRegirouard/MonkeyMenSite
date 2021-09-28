@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/49.png",
   "tokenId": 49,
-  "name": "Monkey Men #49 - Fernanda | Score: 245 | Rarity: Common",
+  "name": "Monkey Men #49 - Damjana | Score: 274 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 479,
+      "value": 285,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 245,
+      "value": 274,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -48,27 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

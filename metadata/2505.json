@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2505.png",
   "tokenId": 2505,
-  "name": "Monkey Men #2505 - Fluffy | Score: 179 | Rarity: Common",
+  "name": "Monkey Men #2505 - Pine | Score: 325 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1391,
+      "value": 101,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 179,
+      "value": 325,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,18 +52,23 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Balloon",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

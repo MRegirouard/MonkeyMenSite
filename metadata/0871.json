@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/871.png",
   "tokenId": 871,
-  "name": "Monkey Men #871 - Pasha | Score: 171 | Rarity: Common",
+  "name": "Monkey Men #871 - Kali | Score: 74 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1647,
+      "value": 4183,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 171,
+      "value": 74,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,7 +28,7 @@
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -40,11 +40,11 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {

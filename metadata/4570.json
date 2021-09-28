@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4570.png",
   "tokenId": 4570,
-  "name": "Monkey Men #4570 - Christopher | Score: 218 | Rarity: Common",
+  "name": "Monkey Men #4570 - Sherif | Score: 47 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 744,
+      "value": 4626,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 218,
+      "value": 47,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -48,22 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

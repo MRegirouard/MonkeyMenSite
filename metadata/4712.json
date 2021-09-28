@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4712.png",
   "tokenId": 4712,
-  "name": "Monkey Men #4712 - Eleanor | Score: 90 | Rarity: Common",
+  "name": "Monkey Men #4712 - Archer | Score: 140 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3698,
+      "value": 2399,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 90,
+      "value": 140,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -32,43 +32,38 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "trait_type": "Style"
     }
   ]
 }

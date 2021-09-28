@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/319.png",
   "tokenId": 319,
-  "name": "Monkey Men #319 - Dipper | Score: 39 | Rarity: Common",
+  "name": "Monkey Men #319 - Pop | Score: 43 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4879,
+      "value": 4779,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 39,
+      "value": 43,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -36,19 +36,19 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 10,
+      "trait_type": "Charm"
     }
   ]
 }

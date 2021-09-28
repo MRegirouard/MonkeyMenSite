@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1281.png",
   "tokenId": 1281,
-  "name": "Monkey Men #1281 - Shadow | Score: 115 | Rarity: Common",
+  "name": "Monkey Men #1281 - Morena | Score: 177 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3021,
+      "value": 1484,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 115,
+      "value": 177,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,22 +48,12 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Empty",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

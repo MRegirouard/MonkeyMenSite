@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/298.png",
   "tokenId": 298,
-  "name": "Monkey Men #298 - Sendoa | Score: 206 | Rarity: Common",
+  "name": "Monkey Men #298 - Phyllis | Score: 140 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 972,
+      "value": 2437,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 206,
+      "value": 140,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,45 +24,40 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 15,
       "trait_type": "Style"
     },
     {
@@ -71,9 +66,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 40,
+      "trait_type": "Money"
     }
   ]
 }

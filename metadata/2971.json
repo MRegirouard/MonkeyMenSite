@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2971.png",
   "tokenId": 2971,
-  "name": "Monkey Men #2971 - Sharma | Score: 169 | Rarity: Common",
+  "name": "Monkey Men #2971 - Armide | Score: 375 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1705,
+      "value": 21,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 169,
+      "value": 375,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
@@ -61,9 +61,14 @@
       "trait_type": "Style"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

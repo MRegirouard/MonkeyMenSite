@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2558.png",
   "tokenId": 2558,
-  "name": "Monkey Men #2558 - Kellie | Score: 138 | Rarity: Common",
+  "name": "Monkey Men #2558 - Erik | Score: 142 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2502,
+      "value": 2352,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 138,
+      "value": 142,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -40,19 +40,19 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -63,17 +63,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

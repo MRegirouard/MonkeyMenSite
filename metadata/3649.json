@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3649.png",
   "tokenId": 3649,
-  "name": "Monkey Men #3649 - Pinto | Score: 53 | Rarity: Common",
+  "name": "Monkey Men #3649 - Ross | Score: 144 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4527,
+      "value": 2291,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 53,
+      "value": 144,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -40,11 +40,11 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,8 +52,13 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Phone",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +71,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

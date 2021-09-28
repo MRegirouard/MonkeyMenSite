@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3746.png",
   "tokenId": 3746,
-  "name": "Monkey Men #3746 - Slim | Score: 74 | Rarity: Common",
+  "name": "Monkey Men #3746 - Ramiz | Score: 113 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4181,
+      "value": 3034,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 74,
+      "value": 113,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -52,18 +52,23 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

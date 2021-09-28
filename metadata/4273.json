@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4273.png",
   "tokenId": 4273,
-  "name": "Monkey Men #4273 - Diva | Score: 146 | Rarity: Common",
+  "name": "Monkey Men #4273 - Vice | Score: 76 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2255,
+      "value": 4154,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 146,
+      "value": 76,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -76,9 +66,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

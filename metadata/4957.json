@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4957.png",
   "tokenId": 4957,
-  "name": "Monkey Men #4957 - Mahlah | Score: 82 | Rarity: Common",
+  "name": "Monkey Men #4957 - Beetle | Score: 210 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3833,
+      "value": 820,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 82,
+      "value": 210,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -32,33 +32,48 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Banana",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 15,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     },
     {
       "display_type": "boost_number",

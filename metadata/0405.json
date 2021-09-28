@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/405.png",
   "tokenId": 405,
-  "name": "Monkey Men #405 - Miriam | Score: 169 | Rarity: Common",
+  "name": "Monkey Men #405 - Cashew | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1736,
+      "value": 3933,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 169,
+      "value": 82,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
@@ -48,27 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 40,
-      "trait_type": "Money"
+      "trait_type": "Health"
     }
   ]
 }

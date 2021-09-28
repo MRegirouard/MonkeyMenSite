@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4597.png",
   "tokenId": 4597,
-  "name": "Monkey Men #4597 - Antigonus | Score: 126 | Rarity: Common",
+  "name": "Monkey Men #4597 - Amie | Score: 216 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2752,
+      "value": 732,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 126,
+      "value": 216,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

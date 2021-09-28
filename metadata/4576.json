@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4576.png",
   "tokenId": 4576,
-  "name": "Monkey Men #4576 - Myra | Score: 115 | Rarity: Common",
+  "name": "Monkey Men #4576 - Grady | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3012,
+      "value": 3384,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 115,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -63,12 +63,22 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

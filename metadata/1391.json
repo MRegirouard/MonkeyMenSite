@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1391.png",
   "tokenId": 1391,
-  "name": "Monkey Men #1391 - Rosebud | Score: 107 | Rarity: Common",
+  "name": "Monkey Men #1391 - Rico | Score: 76 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3421,
+      "value": 4152,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 107,
+      "value": 76,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
     }
   ]
 }

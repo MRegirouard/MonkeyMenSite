@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/114.png",
   "tokenId": 114,
-  "name": "Monkey Men #114 - Nancy | Score: 245 | Rarity: Common",
+  "name": "Monkey Men #114 - Ibtihaj | Score: 70 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 472,
+      "value": 4349,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 245,
+      "value": 70,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
@@ -44,41 +44,26 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

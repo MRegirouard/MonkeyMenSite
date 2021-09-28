@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2392.png",
   "tokenId": 2392,
-  "name": "Monkey Men #2392 - Pupcake | Score: 185 | Rarity: Common",
+  "name": "Monkey Men #2392 - Anni | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1264,
+      "value": 3362,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 185,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,25 +44,25 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
     },
     {

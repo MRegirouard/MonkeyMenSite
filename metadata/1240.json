@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1240.png",
   "tokenId": 1240,
-  "name": "Monkey Men #1240 - Grigori | Score: 305 | Rarity: Common",
+  "name": "Monkey Men #1240 - Buddy | Score: 8 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 140,
+      "value": 4999,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 305,
+      "value": 8,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,36 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

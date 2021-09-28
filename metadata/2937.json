@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2937.png",
   "tokenId": 2937,
-  "name": "Monkey Men #2937 - Pop | Score: 154 | Rarity: Common",
+  "name": "Monkey Men #2937 - Roscoe | Score: 156 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1973,
+      "value": 1953,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 154,
+      "value": 156,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
@@ -40,15 +40,15 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
@@ -58,16 +58,16 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

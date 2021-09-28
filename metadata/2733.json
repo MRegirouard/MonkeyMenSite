@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2733.png",
   "tokenId": 2733,
-  "name": "Monkey Men #2733 - Deepak | Score: 311 | Rarity: Common",
+  "name": "Monkey Men #2733 - Thunberg | Score: 218 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 115,
+      "value": 683,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 311,
+      "value": 218,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 15,
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

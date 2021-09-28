@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3568.png",
   "tokenId": 3568,
-  "name": "Monkey Men #3568 - Rajko | Score: 47 | Rarity: Common",
+  "name": "Monkey Men #3568 - Doyle | Score: 210 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4642,
+      "value": 826,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 47,
+      "value": 210,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,37 +28,42 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

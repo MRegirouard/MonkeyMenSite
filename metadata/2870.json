@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2870.png",
   "tokenId": 2870,
-  "name": "Monkey Men #2870 - Spud | Score: 144 | Rarity: Common",
+  "name": "Monkey Men #2870 - Sable | Score: 208 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2340,
+      "value": 891,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 144,
+      "value": 208,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
@@ -40,30 +40,30 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 15,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

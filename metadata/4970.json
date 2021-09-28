@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4970.png",
   "tokenId": 4970,
-  "name": "Monkey Men #4970 - Idir | Score: 111 | Rarity: Common",
+  "name": "Monkey Men #4970 - Narek | Score: 243 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3093,
+      "value": 487,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 111,
+      "value": 243,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -48,36 +48,31 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 15,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_number",
-      "value": 20,
+      "value": 40,
       "trait_type": "Money"
     }
   ]

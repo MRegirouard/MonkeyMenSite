@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3869.png",
   "tokenId": 3869,
-  "name": "Monkey Men #3869 - Sigmundur | Score: 313 | Rarity: Common",
+  "name": "Monkey Men #3869 - Sidonie | Score: 84 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 3792,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 313,
+      "value": 84,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,36 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -62,18 +67,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

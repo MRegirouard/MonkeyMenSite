@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1244.png",
   "tokenId": 1244,
-  "name": "Monkey Men #1244 - Shady | Score: 230 | Rarity: Common",
+  "name": "Monkey Men #1244 - Crumb | Score: 136 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 639,
+      "value": 2568,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 230,
+      "value": 136,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -68,12 +68,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Health"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

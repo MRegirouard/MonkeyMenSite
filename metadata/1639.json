@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1639.png",
   "tokenId": 1639,
-  "name": "Monkey Men #1639 - Montgomery | Score: 43 | Rarity: Common",
+  "name": "Monkey Men #1639 - Anastazy | Score: 224 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4792,
+      "value": 644,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 43,
+      "value": 224,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
@@ -52,23 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Strength"
     }
   ]
 }

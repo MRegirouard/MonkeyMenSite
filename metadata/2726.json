@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2726.png",
   "tokenId": 2726,
-  "name": "Monkey Men #2726 - Quill | Score: 177 | Rarity: Common",
+  "name": "Monkey Men #2726 - Porkchop | Score: 206 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1518,
+      "value": 941,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 177,
+      "value": 206,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -44,36 +44,26 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

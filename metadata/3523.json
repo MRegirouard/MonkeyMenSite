@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3523.png",
   "tokenId": 3523,
-  "name": "Monkey Men #3523 - Magic | Score: 123 | Rarity: Common",
+  "name": "Monkey Men #3523 - Albert | Score: 138 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2778,
+      "value": 2484,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 123,
+      "value": 138,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     }
   ]
 }

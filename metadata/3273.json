@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3273.png",
   "tokenId": 3273,
-  "name": "Monkey Men #3273 - Talulla | Score: 150 | Rarity: Common",
+  "name": "Monkey Men #3273 - Baloo | Score: 156 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2059,
+      "value": 1951,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 150,
+      "value": 156,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
@@ -63,7 +63,17 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

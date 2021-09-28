@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4253.png",
   "tokenId": 4253,
-  "name": "Monkey Men #4253 - Elise | Score: 74 | Rarity: Common",
+  "name": "Monkey Men #4253 - Sky | Score: 111 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4174,
+      "value": 3202,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 74,
+      "value": 111,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -62,12 +62,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

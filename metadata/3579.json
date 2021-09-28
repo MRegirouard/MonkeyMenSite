@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3579.png",
   "tokenId": 3579,
-  "name": "Monkey Men #3579 - Kiley | Score: 208 | Rarity: Common",
+  "name": "Monkey Men #3579 - Taras | Score: 294 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 951,
+      "value": 190,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 208,
+      "value": 294,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -36,39 +36,39 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     }
   ]
 }

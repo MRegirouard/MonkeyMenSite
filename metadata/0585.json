@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/585.png",
   "tokenId": 585,
-  "name": "Monkey Men #585 - Carlton | Score: 230 | Rarity: Common",
+  "name": "Monkey Men #585 - Saffron | Score: 142 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 638,
+      "value": 2316,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 230,
+      "value": 142,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -40,11 +40,11 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,23 +52,23 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 20,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

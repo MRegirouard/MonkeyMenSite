@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4068.png",
   "tokenId": 4068,
-  "name": "Monkey Men #4068 - Pythios | Score: 290 | Rarity: Common",
+  "name": "Monkey Men #4068 - Meggie | Score: 228 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 193,
+      "value": 607,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 290,
+      "value": 228,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
@@ -44,11 +44,11 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
@@ -63,7 +63,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1612.png",
   "tokenId": 1612,
-  "name": "Monkey Men #1612 - Kanna | Score: 78 | Rarity: Common",
+  "name": "Monkey Men #1612 - Boo | Score: 70 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4094,
+      "value": 4302,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 78,
+      "value": 70,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
@@ -63,7 +63,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

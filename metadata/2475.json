@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2475.png",
   "tokenId": 2475,
-  "name": "Monkey Men #2475 - Gunda | Score: 352 | Rarity: Common",
+  "name": "Monkey Men #2475 - Valko | Score: 55 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 38,
+      "value": 4467,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 352,
+      "value": 55,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

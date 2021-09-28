@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/350.png",
   "tokenId": 350,
-  "name": "Monkey Men #350 - Goomba | Score: 51 | Rarity: Common",
+  "name": "Monkey Men #350 - Shinju | Score: 92 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4608,
+      "value": 3652,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 51,
+      "value": 92,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,17 +48,22 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

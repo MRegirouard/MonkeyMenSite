@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2214.png",
   "tokenId": 2214,
-  "name": "Monkey Men #2214 - Flash | Score: 84 | Rarity: Common",
+  "name": "Monkey Men #2214 - Puma | Score: 133 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3793,
+      "value": 2650,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 84,
+      "value": 133,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,43 +32,38 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

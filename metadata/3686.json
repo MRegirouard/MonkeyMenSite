@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3686.png",
   "tokenId": 3686,
-  "name": "Monkey Men #3686 - Lillian | Score: 84 | Rarity: Common",
+  "name": "Monkey Men #3686 - Dominykas | Score: 68 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3820,
+      "value": 4404,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 84,
+      "value": 68,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,27 +28,27 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -58,7 +58,12 @@
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Temperature"
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

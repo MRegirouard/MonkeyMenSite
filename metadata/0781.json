@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/781.png",
   "tokenId": 781,
-  "name": "Monkey Men #781 - Kennard | Score: 111 | Rarity: Common",
+  "name": "Monkey Men #781 - Minerva | Score: 181 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3126,
+      "value": 1327,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 111,
+      "value": 181,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -59,6 +59,11 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -74,6 +79,11 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

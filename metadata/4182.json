@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4182.png",
   "tokenId": 4182,
-  "name": "Monkey Men #4182 - Evangelia | Score: 136 | Rarity: Common",
+  "name": "Monkey Men #4182 - Drift | Score: 264 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2610,
+      "value": 361,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 136,
+      "value": 264,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -40,25 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
+      "value": 15,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -69,6 +69,11 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2318.png",
   "tokenId": 2318,
-  "name": "Monkey Men #2318 - Hyper | Score: 165 | Rarity: Common",
+  "name": "Monkey Men #2318 - Sequoia | Score: 247 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1859,
+      "value": 439,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 165,
+      "value": 247,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -40,19 +40,19 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Dress Shoes",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -64,11 +64,6 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

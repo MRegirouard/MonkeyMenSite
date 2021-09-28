@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1388.png",
   "tokenId": 1388,
-  "name": "Monkey Men #1388 - Blast | Score: 80 | Rarity: Common",
+  "name": "Monkey Men #1388 - Ronan | Score: 210 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4024,
+      "value": 833,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 80,
+      "value": 210,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,19 +32,19 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,18 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

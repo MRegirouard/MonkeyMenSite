@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2439.png",
   "tokenId": 2439,
-  "name": "Monkey Men #2439 - Harlan | Score: 154 | Rarity: Common",
+  "name": "Monkey Men #2439 - Oswine | Score: 136 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1968,
+      "value": 2576,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 154,
+      "value": 136,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
@@ -67,8 +67,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2976.png",
   "tokenId": 2976,
-  "name": "Monkey Men #2976 - Puffy | Score: 183 | Rarity: Common",
+  "name": "Monkey Men #2976 - Barclay | Score: 92 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1284,
+      "value": 3656,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 183,
+      "value": 92,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -32,23 +32,23 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,13 +57,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

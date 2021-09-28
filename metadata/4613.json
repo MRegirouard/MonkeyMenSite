@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4613.png",
   "tokenId": 4613,
-  "name": "Monkey Men #4613 - Bitsy | Score: 128 | Rarity: Common",
+  "name": "Monkey Men #4613 - Avis | Score: 210 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2718,
+      "value": 821,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 128,
+      "value": 210,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,12 +52,12 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
@@ -68,7 +68,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_number",

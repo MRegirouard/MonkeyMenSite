@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/17.png",
   "tokenId": 17,
-  "name": "Monkey Men #17 - Tomislav | Score: 210 | Rarity: Common",
+  "name": "Monkey Men #17 - Gale | Score: 167 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 879,
+      "value": 1773,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 210,
+      "value": 167,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
@@ -32,19 +32,19 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,8 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Money",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -61,9 +71,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

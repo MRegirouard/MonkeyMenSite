@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4440.png",
   "tokenId": 4440,
-  "name": "Monkey Men #4440 - Sunday | Score: 173 | Rarity: Common",
+  "name": "Monkey Men #4440 - Gemini | Score: 55 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1609,
+      "value": 4455,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 173,
+      "value": 55,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,23 +52,13 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

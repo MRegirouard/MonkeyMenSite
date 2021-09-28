@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1455.png",
   "tokenId": 1455,
-  "name": "Monkey Men #1455 - Tammy | Score: 198 | Rarity: Common",
+  "name": "Monkey Men #1455 - Henning | Score: 307 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1093,
+      "value": 141,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 198,
+      "value": 307,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

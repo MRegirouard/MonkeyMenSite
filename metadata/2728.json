@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2728.png",
   "tokenId": 2728,
-  "name": "Monkey Men #2728 - Ruthie | Score: 288 | Rarity: Common",
+  "name": "Monkey Men #2728 - Noa | Score: 371 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 197,
+      "value": 25,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 288,
+      "value": 371,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -40,20 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Money",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -62,13 +67,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Strength"
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1239.png",
   "tokenId": 1239,
-  "name": "Monkey Men #1239 - Shamil | Score: 191 | Rarity: Common",
+  "name": "Monkey Men #1239 - Iris | Score: 158 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1182,
+      "value": 1907,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 191,
+      "value": 158,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

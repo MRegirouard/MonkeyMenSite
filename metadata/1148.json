@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1148.png",
   "tokenId": 1148,
-  "name": "Monkey Men #1148 - Simba | Score: 237 | Rarity: Common",
+  "name": "Monkey Men #1148 - Raven | Score: 274 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 582,
+      "value": 290,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 237,
+      "value": 274,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     }
   ]
 }

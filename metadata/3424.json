@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3424.png",
   "tokenId": 3424,
-  "name": "Monkey Men #3424 - Iris | Score: 150 | Rarity: Common",
+  "name": "Monkey Men #3424 - Eternal | Score: 243 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2082,
+      "value": 481,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 150,
+      "value": 243,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
@@ -32,38 +32,48 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 15,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 40,
+      "trait_type": "Money"
     }
   ]
 }

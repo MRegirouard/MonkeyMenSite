@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/279.png",
   "tokenId": 279,
-  "name": "Monkey Men #279 - Melania | Score: 45 | Rarity: Common",
+  "name": "Monkey Men #279 - Axelle | Score: 177 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4713,
+      "value": 1498,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 45,
+      "value": 177,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -72,13 +72,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

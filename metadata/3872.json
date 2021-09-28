@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3872.png",
   "tokenId": 3872,
-  "name": "Monkey Men #3872 - Alban | Score: 171 | Rarity: Common",
+  "name": "Monkey Men #3872 - Jolly | Score: 276 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1642,
+      "value": 268,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 171,
+      "value": 276,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Balloon",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "value": 10,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

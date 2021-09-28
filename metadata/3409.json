@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3409.png",
   "tokenId": 3409,
-  "name": "Monkey Men #3409 - Buckeye | Score: 278 | Rarity: Common",
+  "name": "Monkey Men #3409 - Melchior | Score: 140 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 257,
+      "value": 2376,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 278,
+      "value": 140,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,28 +32,33 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Money",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +71,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

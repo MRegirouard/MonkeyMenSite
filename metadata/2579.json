@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2579.png",
   "tokenId": 2579,
-  "name": "Monkey Men #2579 - Puffin | Score: 131 | Rarity: Common",
+  "name": "Monkey Men #2579 - Girish | Score: 55 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2678,
+      "value": 4464,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 131,
+      "value": 55,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
@@ -40,40 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
     }
   ]
 }

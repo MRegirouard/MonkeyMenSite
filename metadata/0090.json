@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/90.png",
   "tokenId": 90,
-  "name": "Monkey Men #90 - Liza | Score: 109 | Rarity: Common",
+  "name": "Monkey Men #90 - Sanjay | Score: 196 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3301,
+      "value": 1103,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 109,
+      "value": 196,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
@@ -62,7 +62,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/611.png",
   "tokenId": 611,
-  "name": "Monkey Men #611 - Thai | Score: 212 | Rarity: Common",
+  "name": "Monkey Men #611 - Deku | Score: 49 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 854,
+      "value": 4595,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 212,
+      "value": 49,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -58,12 +58,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

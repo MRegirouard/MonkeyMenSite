@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/737.png",
   "tokenId": 737,
-  "name": "Monkey Men #737 - Brute | Score: 346 | Rarity: Common",
+  "name": "Monkey Men #737 - Kipper | Score: 187 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 45,
+      "value": 1241,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 346,
+      "value": 187,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,22 +48,22 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Temperature"
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

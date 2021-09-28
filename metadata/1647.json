@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1647.png",
   "tokenId": 1647,
-  "name": "Monkey Men #1647 - Ikenna | Score: 107 | Rarity: Common",
+  "name": "Monkey Men #1647 - Fruma | Score: 101 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3361,
+      "value": 3465,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 107,
+      "value": 101,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,41 +28,41 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

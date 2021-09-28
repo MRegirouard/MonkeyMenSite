@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1683.png",
   "tokenId": 1683,
-  "name": "Monkey Men #1683 - Winnie | Score: 148 | Rarity: Common",
+  "name": "Monkey Men #1683 - Tagwanibisan | Score: 206 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2230,
+      "value": 963,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 148,
+      "value": 206,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,36 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Balloon",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +61,9 @@
       "trait_type": "Style"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
     }
   ]
 }

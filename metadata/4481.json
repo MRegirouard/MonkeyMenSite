@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4481.png",
   "tokenId": 4481,
-  "name": "Monkey Men #4481 - Bogart | Score: 86 | Rarity: Common",
+  "name": "Monkey Men #4481 - Luned | Score: 152 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3762,
+      "value": 2033,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 86,
+      "value": 152,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
     }
   ]
 }

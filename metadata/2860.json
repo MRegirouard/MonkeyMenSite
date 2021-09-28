@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2860.png",
   "tokenId": 2860,
-  "name": "Monkey Men #2860 - Paco | Score: 247 | Rarity: Common",
+  "name": "Monkey Men #2860 - Lugus | Score: 84 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 448,
+      "value": 3819,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 247,
+      "value": 84,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -32,27 +32,27 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -62,13 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4864.png",
   "tokenId": 4864,
-  "name": "Monkey Men #4864 - Kalyan | Score: 220 | Rarity: Common",
+  "name": "Monkey Men #4864 - Pedro | Score: 181 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 724,
+      "value": 1326,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 220,
+      "value": 181,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,12 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Grapes",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -63,17 +68,7 @@
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

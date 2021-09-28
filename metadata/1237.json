@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1237.png",
   "tokenId": 1237,
-  "name": "Monkey Men #1237 - Cendrillon | Score: 198 | Rarity: Common",
+  "name": "Monkey Men #1237 - Nosizwe | Score: 196 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1071,
+      "value": 1091,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 198,
+      "value": 196,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,15 +44,15 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Balloon",
       "trait_type": "Left Hand"
     },
     {

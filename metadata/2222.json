@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2222.png",
   "tokenId": 2222,
-  "name": "Monkey Men #2222 - Peachy | Score: 136 | Rarity: Common",
+  "name": "Monkey Men #2222 - Deion | Score: 74 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2603,
+      "value": 4199,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 136,
+      "value": 74,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -62,13 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 10,
+      "trait_type": "Style"
     },
     {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

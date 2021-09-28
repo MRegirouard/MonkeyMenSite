@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2962.png",
   "tokenId": 2962,
-  "name": "Monkey Men #2962 - Isaurus | Score: 303 | Rarity: Common",
+  "name": "Monkey Men #2962 - Lorayne | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 163,
+      "value": 3289,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 303,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {

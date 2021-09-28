@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4071.png",
   "tokenId": 4071,
-  "name": "Monkey Men #4071 - Nafula | Score: 340 | Rarity: Common",
+  "name": "Monkey Men #4071 - Mikael | Score: 117 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 54,
+      "value": 2965,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 340,
+      "value": 117,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -36,29 +36,39 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1521.png",
   "tokenId": 1521,
-  "name": "Monkey Men #1521 - Moby | Score: 160 | Rarity: Common",
+  "name": "Monkey Men #1521 - Jamyang | Score: 14 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1886,
+      "value": 4965,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 160,
+      "value": 14,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,23 +32,23 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -58,12 +58,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

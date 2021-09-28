@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1653.png",
   "tokenId": 1653,
-  "name": "Monkey Men #1653 - Gray | Score: 175 | Rarity: Common",
+  "name": "Monkey Men #1653 - Barkley | Score: 138 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1574,
+      "value": 2517,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 175,
+      "value": 138,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,27 +32,27 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -68,7 +68,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

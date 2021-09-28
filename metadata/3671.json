@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3671.png",
   "tokenId": 3671,
-  "name": "Monkey Men #3671 - Daz | Score: 107 | Rarity: Common",
+  "name": "Monkey Men #3671 - Digby | Score: 216 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3362,
+      "value": 735,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 107,
+      "value": 216,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
@@ -48,17 +48,32 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4305.png",
   "tokenId": 4305,
-  "name": "Monkey Men #4305 - Adelardo | Score: 169 | Rarity: Common",
+  "name": "Monkey Men #4305 - Spy | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1758,
+      "value": 3346,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 169,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
@@ -48,22 +48,12 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
       "value": "Banana",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

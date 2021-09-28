@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3174.png",
   "tokenId": 3174,
-  "name": "Monkey Men #3174 - Tajeddigt | Score: 76 | Rarity: Common",
+  "name": "Monkey Men #3174 - Dai | Score: 134 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4164,
+      "value": 2632,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 76,
+      "value": 134,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -63,7 +63,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

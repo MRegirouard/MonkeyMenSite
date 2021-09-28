@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2406.png",
   "tokenId": 2406,
-  "name": "Monkey Men #2406 - Psyche | Score: 126 | Rarity: Common",
+  "name": "Monkey Men #2406 - Abhishek | Score: 245 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2743,
+      "value": 455,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 126,
+      "value": 245,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Charm"
     }
   ]
 }

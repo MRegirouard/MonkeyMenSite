@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/532.png",
   "tokenId": 532,
-  "name": "Monkey Men #532 - Obama | Score: 245 | Rarity: Common",
+  "name": "Monkey Men #532 - Squeeky | Score: 169 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 486,
+      "value": 1710,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 245,
+      "value": 169,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "value": 10,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

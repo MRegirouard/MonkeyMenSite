@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/922.png",
   "tokenId": 922,
-  "name": "Monkey Men #922 - Elliot | Score: 41 | Rarity: Common",
+  "name": "Monkey Men #922 - Otgonbayar | Score: 171 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4848,
+      "value": 1636,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 41,
+      "value": 171,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,56 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

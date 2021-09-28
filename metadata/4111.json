@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4111.png",
   "tokenId": 4111,
-  "name": "Monkey Men #4111 - Ludovic | Score: 148 | Rarity: Common",
+  "name": "Monkey Men #4111 - Bowser | Score: 101 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2224,
+      "value": 3471,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 148,
+      "value": 101,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -63,11 +63,11 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

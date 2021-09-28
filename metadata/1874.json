@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1874.png",
   "tokenId": 1874,
-  "name": "Monkey Men #1874 - Jumbo | Score: 68 | Rarity: Common",
+  "name": "Monkey Men #1874 - Sheela | Score: 198 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4374,
+      "value": 1044,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 68,
+      "value": 198,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +66,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

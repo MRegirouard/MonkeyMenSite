@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3139.png",
   "tokenId": 3139,
-  "name": "Monkey Men #3139 - Mecca | Score: 142 | Rarity: Common",
+  "name": "Monkey Men #3139 - Newman | Score: 74 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2388,
+      "value": 4192,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 142,
+      "value": 74,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,26 +44,26 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "value": 5,
+      "trait_type": "Style"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3842.png",
   "tokenId": 3842,
-  "name": "Monkey Men #3842 - Murat | Score: 191 | Rarity: Common",
+  "name": "Monkey Men #3842 - Spectral | Score: 179 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1165,
+      "value": 1390,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 191,
+      "value": 179,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,23 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

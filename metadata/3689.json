@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3689.png",
   "tokenId": 3689,
-  "name": "Monkey Men #3689 - Lorin | Score: 113 | Rarity: Common",
+  "name": "Monkey Men #3689 - Wacky | Score: 214 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3054,
+      "value": 771,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 113,
+      "value": 214,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     }
   ]
 }

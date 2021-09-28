@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/650.png",
   "tokenId": 650,
-  "name": "Monkey Men #650 - Saori | Score: 12 | Rarity: Common",
+  "name": "Monkey Men #650 - Sri | Score: 78 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4982,
+      "value": 4098,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 12,
+      "value": 78,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
@@ -44,7 +44,7 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {

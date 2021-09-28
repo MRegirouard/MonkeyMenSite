@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3421.png",
   "tokenId": 3421,
-  "name": "Monkey Men #3421 - Clyde | Score: 171 | Rarity: Common",
+  "name": "Monkey Men #3421 - Natasha | Score: 12 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1666,
+      "value": 4978,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 171,
+      "value": 12,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -57,23 +57,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

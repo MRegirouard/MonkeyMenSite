@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4137.png",
   "tokenId": 4137,
-  "name": "Monkey Men #4137 - Rasta | Score: 121 | Rarity: Common",
+  "name": "Monkey Men #4137 - Beans | Score: 133 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2843,
+      "value": 2649,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 121,
+      "value": 133,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,23 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Health"
     }
   ]
 }

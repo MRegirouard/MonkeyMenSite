@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3802.png",
   "tokenId": 3802,
-  "name": "Monkey Men #3802 - Screw | Score: 196 | Rarity: Common",
+  "name": "Monkey Men #3802 - Kishor | Score: 72 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1125,
+      "value": 4293,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 196,
+      "value": 72,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -57,13 +57,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_number",

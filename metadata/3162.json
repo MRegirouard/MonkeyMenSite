@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3162.png",
   "tokenId": 3162,
-  "name": "Monkey Men #3162 - Chill | Score: 216 | Rarity: Common",
+  "name": "Monkey Men #3162 - Phoebe | Score: 208 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 777,
+      "value": 910,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 216,
+      "value": 208,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -48,16 +48,21 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {

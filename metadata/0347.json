@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/347.png",
   "tokenId": 347,
-  "name": "Monkey Men #347 - Millie | Score: 173 | Rarity: Common",
+  "name": "Monkey Men #347 - Fergie | Score: 216 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1620,
+      "value": 723,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 173,
+      "value": 216,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
@@ -74,11 +69,6 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

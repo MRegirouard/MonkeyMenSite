@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3936.png",
   "tokenId": 3936,
-  "name": "Monkey Men #3936 - Silk | Score: 216 | Rarity: Common",
+  "name": "Monkey Men #3936 - Torborg | Score: 158 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 794,
+      "value": 1882,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 216,
+      "value": 158,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,16 +48,16 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 20,
+      "value": 10,
       "trait_type": "Charm"
     },
     {

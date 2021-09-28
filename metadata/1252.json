@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1252.png",
   "tokenId": 1252,
-  "name": "Monkey Men #1252 - Chichi | Score: 214 | Rarity: Common",
+  "name": "Monkey Men #1252 - Hagen | Score: 185 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 831,
+      "value": 1274,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 214,
+      "value": 185,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,40 +24,50 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 10,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Strength"
     },
     {

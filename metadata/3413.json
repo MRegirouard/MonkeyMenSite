@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3413.png",
   "tokenId": 3413,
-  "name": "Monkey Men #3413 - Yury | Score: 177 | Rarity: Common",
+  "name": "Monkey Men #3413 - Eberhard | Score: 183 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1508,
+      "value": 1297,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 177,
+      "value": 183,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "value": 15,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

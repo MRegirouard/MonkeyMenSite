@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3714.png",
   "tokenId": 3714,
-  "name": "Monkey Men #3714 - Daft | Score: 68 | Rarity: Common",
+  "name": "Monkey Men #3714 - Anushka | Score: 78 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4381,
+      "value": 4132,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 68,
+      "value": 78,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,11 +28,11 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
@@ -48,22 +48,22 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
-      "display_type": "boost_number",
-      "value": 40,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

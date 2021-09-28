@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3968.png",
   "tokenId": 3968,
-  "name": "Monkey Men #3968 - Chloe | Score: 276 | Rarity: Common",
+  "name": "Monkey Men #3968 - Fluff | Score: 109 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 275,
+      "value": 3264,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 276,
+      "value": 109,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -40,15 +40,15 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -58,12 +58,7 @@
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

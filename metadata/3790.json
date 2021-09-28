@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3790.png",
   "tokenId": 3790,
-  "name": "Monkey Men #3790 - Vjekoslav | Score: 208 | Rarity: Common",
+  "name": "Monkey Men #3790 - Skyler | Score: 338 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 954,
+      "value": 73,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 208,
+      "value": 338,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
@@ -40,34 +40,29 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Health"
     }
   ]

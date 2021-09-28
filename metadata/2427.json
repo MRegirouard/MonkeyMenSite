@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2427.png",
   "tokenId": 2427,
-  "name": "Monkey Men #2427 - Carly | Score: 274 | Rarity: Common",
+  "name": "Monkey Men #2427 - Orso | Score: 266 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 300,
+      "value": 342,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 274,
+      "value": 266,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
@@ -32,43 +32,38 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Grapes",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

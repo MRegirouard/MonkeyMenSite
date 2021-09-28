@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1995.png",
   "tokenId": 1995,
-  "name": "Monkey Men #1995 - Tito | Score: 160 | Rarity: Common",
+  "name": "Monkey Men #1995 - Zoom | Score: 183 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1879,
+      "value": 1285,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 160,
+      "value": 183,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,38 +32,33 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4550.png",
   "tokenId": 4550,
-  "name": "Monkey Men #4550 - Cayden | Score: 45 | Rarity: Common",
+  "name": "Monkey Men #4550 - Askanios | Score: 134 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4672,
+      "value": 2645,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 45,
+      "value": 134,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
@@ -32,43 +32,38 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     }
   ]
 }

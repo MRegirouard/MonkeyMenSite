@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3657.png",
   "tokenId": 3657,
-  "name": "Monkey Men #3657 - Ankita | Score: 51 | Rarity: Common",
+  "name": "Monkey Men #3657 - Tatyanna | Score: 208 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4604,
+      "value": 886,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 51,
+      "value": 208,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
@@ -57,13 +57,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "value": 15,
+      "trait_type": "Charm"
     }
   ]
 }

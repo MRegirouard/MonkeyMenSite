@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2907.png",
   "tokenId": 2907,
-  "name": "Monkey Men #2907 - Estanislao | Score: 16 | Rarity: Common",
+  "name": "Monkey Men #2907 - Barrett | Score: 154 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4925,
+      "value": 1965,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 16,
+      "value": 154,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
@@ -44,11 +44,11 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

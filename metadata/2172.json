@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2172.png",
   "tokenId": 2172,
-  "name": "Monkey Men #2172 - Hailey | Score: 276 | Rarity: Common",
+  "name": "Monkey Men #2172 - Prema | Score: 200 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 270,
+      "value": 1031,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 276,
+      "value": 200,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
@@ -62,12 +62,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

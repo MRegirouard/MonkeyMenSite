@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2301.png",
   "tokenId": 2301,
-  "name": "Monkey Men #2301 - Gasby | Score: 57 | Rarity: Common",
+  "name": "Monkey Men #2301 - Gilligan | Score: 94 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4450,
+      "value": 3617,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 57,
+      "value": 94,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
@@ -63,6 +63,11 @@
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Health"
     }
   ]

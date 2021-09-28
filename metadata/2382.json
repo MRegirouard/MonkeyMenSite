@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2382.png",
   "tokenId": 2382,
-  "name": "Monkey Men #2382 - Katrina | Score: 99 | Rarity: Common",
+  "name": "Monkey Men #2382 - Anti | Score: 57 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3535,
+      "value": 4429,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 99,
+      "value": 57,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -36,11 +36,11 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
@@ -67,18 +67,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

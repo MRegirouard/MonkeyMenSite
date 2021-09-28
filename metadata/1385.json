@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1385.png",
   "tokenId": 1385,
-  "name": "Monkey Men #1385 - Iudith | Score: 72 | Rarity: Common",
+  "name": "Monkey Men #1385 - Josse | Score: 218 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4267,
+      "value": 689,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 72,
+      "value": 218,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,36 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Leaf",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

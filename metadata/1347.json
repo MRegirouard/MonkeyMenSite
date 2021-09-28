@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1347.png",
   "tokenId": 1347,
-  "name": "Monkey Men #1347 - Akosua | Score: 74 | Rarity: Common",
+  "name": "Monkey Men #1347 - Nikolaos | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4184,
+      "value": 3913,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 74,
+      "value": 82,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -32,19 +32,19 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
@@ -52,13 +52,8 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Apple",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -69,11 +64,6 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
     }
   ]
 }

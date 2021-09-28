@@ -1,15 +1,15 @@
 {
   "image": "192.168.0.56:8081/monkeys/4281.png",
   "tokenId": 4281,
-  "name": "Monkey Men #4281 - Johan | Score: 140 | Rarity: Common",
+  "name": "Monkey Men #4281 - Kenith | Score: 140 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2465,
+      "value": 2442,
       "trait_type": "Rank"
     },
     {
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,39 +36,29 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

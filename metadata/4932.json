@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4932.png",
   "tokenId": 4932,
-  "name": "Monkey Men #4932 - Vortigern | Score: 183 | Rarity: Common",
+  "name": "Monkey Men #4932 - Athanas | Score: 307 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1281,
+      "value": 140,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 183,
+      "value": 307,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
@@ -36,34 +36,29 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4252.png",
   "tokenId": 4252,
-  "name": "Monkey Men #4252 - Jusztina | Score: 95 | Rarity: Common",
+  "name": "Monkey Men #4252 - Sherbert | Score: 43 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3615,
+      "value": 4726,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 95,
+      "value": 43,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
@@ -32,19 +32,19 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,18 +52,23 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     },
     {
       "display_type": "boost_number",

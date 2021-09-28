@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1322.png",
   "tokenId": 1322,
-  "name": "Monkey Men #1322 - Chad | Score: 107 | Rarity: Common",
+  "name": "Monkey Men #1322 - Khloe | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,7 +9,7 @@
     },
     {
       "display_type": "number",
-      "value": 3347,
+      "value": 3373,
       "trait_type": "Rank"
     },
     {
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -57,8 +57,13 @@
     },
     {
       "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Strength"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2440.png",
   "tokenId": 2440,
-  "name": "Monkey Men #2440 - Rodolfo | Score: 183 | Rarity: Common",
+  "name": "Monkey Men #2440 - Eddie | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1306,
+      "value": 2115,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 183,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,13 +57,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Strength"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/792.png",
   "tokenId": 792,
-  "name": "Monkey Men #792 - Roger | Score: 196 | Rarity: Common",
+  "name": "Monkey Men #792 - Hillary | Score: 142 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1118,
+      "value": 2320,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 196,
+      "value": 142,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,21 +48,21 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

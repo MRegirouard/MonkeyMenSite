@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4691.png",
   "tokenId": 4691,
-  "name": "Monkey Men #4691 - Achilleus | Score: 208 | Rarity: Common",
+  "name": "Monkey Men #4691 - Bosco | Score: 119 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 919,
+      "value": 2870,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 208,
+      "value": 119,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,16 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Flower",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

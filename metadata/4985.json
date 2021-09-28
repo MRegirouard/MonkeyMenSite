@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4985.png",
   "tokenId": 4985,
-  "name": "Monkey Men #4985 - Wilheard | Score: 247 | Rarity: Common",
+  "name": "Monkey Men #4985 - Willette | Score: 208 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 441,
+      "value": 863,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 247,
+      "value": 208,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,35 +24,35 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
@@ -62,8 +62,18 @@
     },
     {
       "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1178.png",
   "tokenId": 1178,
-  "name": "Monkey Men #1178 - Tarina | Score: 177 | Rarity: Common",
+  "name": "Monkey Men #1178 - Noble | Score: 299 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1536,
+      "value": 167,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 177,
+      "value": 299,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
@@ -36,15 +36,15 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
@@ -52,17 +52,17 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
     }
   ]

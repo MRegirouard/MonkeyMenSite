@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2584.png",
   "tokenId": 2584,
-  "name": "Monkey Men #2584 - Ermintrude | Score: 86 | Rarity: Common",
+  "name": "Monkey Men #2584 - Nicolaus | Score: 86 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,7 +9,7 @@
     },
     {
       "display_type": "number",
-      "value": 3752,
+      "value": 3753,
       "trait_type": "Rank"
     },
     {
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
@@ -48,27 +48,22 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Health"
     }
   ]
 }

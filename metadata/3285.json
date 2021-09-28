@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3285.png",
   "tokenId": 3285,
-  "name": "Monkey Men #3285 - Boogie | Score: 334 | Rarity: Common",
+  "name": "Monkey Men #3285 - Kallirroi | Score: 113 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 70,
+      "value": 3100,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 334,
+      "value": 113,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -62,13 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_number",

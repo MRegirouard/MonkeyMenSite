@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3165.png",
   "tokenId": 3165,
-  "name": "Monkey Men #3165 - Aurora | Score: 10 | Rarity: Common",
+  "name": "Monkey Men #3165 - Lauritz | Score: 375 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4997,
+      "value": 23,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 10,
+      "value": 375,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
@@ -40,15 +40,15 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -59,6 +59,11 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

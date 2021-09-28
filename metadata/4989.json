@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4989.png",
   "tokenId": 4989,
-  "name": "Monkey Men #4989 - Sabinus | Score: 41 | Rarity: Common",
+  "name": "Monkey Men #4989 - Adobe | Score: 237 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4794,
+      "value": 531,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 41,
+      "value": 237,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -52,13 +52,23 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
+      "value": 20,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Health"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

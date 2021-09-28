@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/422.png",
   "tokenId": 422,
-  "name": "Monkey Men #422 - Patch | Score: 92 | Rarity: Common",
+  "name": "Monkey Men #422 - Prakash | Score: 309 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3647,
+      "value": 129,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 92,
+      "value": 309,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow-Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,34 +36,29 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "value": 10,
+      "trait_type": "Charm"
     }
   ]
 }

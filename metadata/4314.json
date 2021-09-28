@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4314.png",
   "tokenId": 4314,
-  "name": "Monkey Men #4314 - Aamir | Score: 274 | Rarity: Common",
+  "name": "Monkey Men #4314 - Lygia | Score: 57 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 295,
+      "value": 4433,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 274,
+      "value": 57,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
@@ -40,24 +40,24 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
@@ -68,11 +68,6 @@
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Health"
     }
   ]

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4020.png",
   "tokenId": 4020,
-  "name": "Monkey Men #4020 - Kane | Score: 144 | Rarity: Common",
+  "name": "Monkey Men #4020 - Feige | Score: 146 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2297,
+      "value": 2231,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 144,
+      "value": 146,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -36,28 +36,28 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

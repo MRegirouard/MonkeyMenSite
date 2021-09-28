@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2190.png",
   "tokenId": 2190,
-  "name": "Monkey Men #2190 - Kitty | Score: 183 | Rarity: Common",
+  "name": "Monkey Men #2190 - Blizzard | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1293,
+      "value": 3329,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 183,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
+      "value": 10,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
@@ -66,9 +66,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Health"
+      "display_type": "boost_number",
+      "value": 40,
+      "trait_type": "Money"
     }
   ]
 }

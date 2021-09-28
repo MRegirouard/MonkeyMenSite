@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3977.png",
   "tokenId": 3977,
-  "name": "Monkey Men #3977 - Hardmod | Score: 51 | Rarity: Common",
+  "name": "Monkey Men #3977 - Lamont | Score: 103 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4592,
+      "value": 3431,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 51,
+      "value": 103,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
@@ -40,11 +40,11 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Phone",
       "trait_type": "Left Hand"
     },
     {
@@ -62,8 +62,13 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "value": 15,
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 40,
+      "trait_type": "Money"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3033.png",
   "tokenId": 3033,
-  "name": "Monkey Men #3033 - Clooney | Score: 210 | Rarity: Common",
+  "name": "Monkey Men #3033 - Estanislao | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 858,
+      "value": 2194,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 210,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,45 +24,40 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 20,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Strength"
     },
     {

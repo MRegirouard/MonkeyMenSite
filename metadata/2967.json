@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2967.png",
   "tokenId": 2967,
-  "name": "Monkey Men #2967 - Pandora | Score: 12 | Rarity: Common",
+  "name": "Monkey Men #2967 - Cindy | Score: 119 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4984,
+      "value": 2884,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 12,
+      "value": 119,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,19 +28,19 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
@@ -48,22 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

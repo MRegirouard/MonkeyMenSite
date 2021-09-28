@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/316.png",
   "tokenId": 316,
-  "name": "Monkey Men #316 - Ananth | Score: 156 | Rarity: Common",
+  "name": "Monkey Men #316 - Torch | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1943,
+      "value": 3376,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 156,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -36,15 +36,15 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {

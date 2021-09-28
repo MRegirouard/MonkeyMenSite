@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4752.png",
   "tokenId": 4752,
-  "name": "Monkey Men #4752 - Ruffle | Score: 78 | Rarity: Common",
+  "name": "Monkey Men #4752 - Clifford | Score: 146 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4082,
+      "value": 2204,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 78,
+      "value": 146,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,7 +28,7 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -40,20 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
       "value": "Leaf",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3021.png",
   "tokenId": 3021,
-  "name": "Monkey Men #3021 - Caligula | Score: 243 | Rarity: Common",
+  "name": "Monkey Men #3021 - Mirage | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 511,
+      "value": 3857,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 243,
+      "value": 82,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,15 +28,15 @@
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
@@ -62,17 +62,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

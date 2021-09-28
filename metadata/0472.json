@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/472.png",
   "tokenId": 472,
-  "name": "Monkey Men #472 - Tamera | Score: 171 | Rarity: Common",
+  "name": "Monkey Men #472 - Gyro | Score: 78 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1655,
+      "value": 4122,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 171,
+      "value": 78,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Propeller",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -59,11 +59,6 @@
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     },
     {
       "display_type": "boost_number",

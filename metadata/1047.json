@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1047.png",
   "tokenId": 1047,
-  "name": "Monkey Men #1047 - Cork | Score: 121 | Rarity: Common",
+  "name": "Monkey Men #1047 - Merope | Score: 47 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2833,
+      "value": 4635,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 121,
+      "value": 47,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -44,7 +44,7 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,12 +52,12 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Style"
     },
     {

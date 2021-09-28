@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/76.png",
   "tokenId": 76,
-  "name": "Monkey Men #76 - Korinna | Score: 155 | Rarity: Common",
+  "name": "Monkey Men #76 - Ryszard | Score: 307 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1962,
+      "value": 136,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 155,
+      "value": 307,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,51 +24,56 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 15,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 40,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Health"
     }
   ]
 }

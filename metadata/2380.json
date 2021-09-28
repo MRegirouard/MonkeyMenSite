@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2380.png",
   "tokenId": 2380,
-  "name": "Monkey Men #2380 - Aurelio | Score: 313 | Rarity: Common",
+  "name": "Monkey Men #2380 - Rayna | Score: 187 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 111,
+      "value": 1214,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 313,
+      "value": 187,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,40 +24,40 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
     },
     {
@@ -68,7 +68,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

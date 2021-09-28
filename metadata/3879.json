@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3879.png",
   "tokenId": 3879,
-  "name": "Monkey Men #3879 - Zakhar | Score: 204 | Rarity: Common",
+  "name": "Monkey Men #3879 - Toma | Score: 196 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1012,
+      "value": 1098,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 204,
+      "value": 196,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Bird",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -48,12 +48,27 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Apple",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

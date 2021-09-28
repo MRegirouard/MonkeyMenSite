@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1713.png",
   "tokenId": 1713,
-  "name": "Monkey Men #1713 - Napoleone | Score: 160 | Rarity: Common",
+  "name": "Monkey Men #1713 - Breeze | Score: 47 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1893,
+      "value": 4633,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 160,
+      "value": 47,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,46 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
+      "value": 5,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4331.png",
   "tokenId": 4331,
-  "name": "Monkey Men #4331 - Johanna | Score: 113 | Rarity: Common",
+  "name": "Monkey Men #4331 - Sylvester | Score: 12 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3089,
+      "value": 4971,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 113,
+      "value": 12,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,19 +24,19 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -48,7 +48,7 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Strength"
     }
   ]

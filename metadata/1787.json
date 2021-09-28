@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1787.png",
   "tokenId": 1787,
-  "name": "Monkey Men #1787 - Dillon | Score: 99 | Rarity: Common",
+  "name": "Monkey Men #1787 - Wonka | Score: 179 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3512,
+      "value": 1407,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 99,
+      "value": 179,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Background"
     },
     {
@@ -32,19 +32,19 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,28 +52,18 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
     }
   ]
 }

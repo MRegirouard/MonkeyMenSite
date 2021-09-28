@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3006.png",
   "tokenId": 3006,
-  "name": "Monkey Men #3006 - Svantovit | Score: 12 | Rarity: Common",
+  "name": "Monkey Men #3006 - Ravi | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4983,
+      "value": 3858,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 12,
+      "value": 82,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,27 +28,27 @@
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -57,13 +57,18 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 15,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

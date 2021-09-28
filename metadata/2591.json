@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2591.png",
   "tokenId": 2591,
-  "name": "Monkey Men #2591 - Tau | Score: 107 | Rarity: Common",
+  "name": "Monkey Men #2591 - Melisa | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,7 +9,7 @@
     },
     {
       "display_type": "number",
-      "value": 3349,
+      "value": 3367,
       "trait_type": "Rank"
     },
     {
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -57,7 +57,12 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 10,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
@@ -67,7 +72,7 @@
     },
     {
       "display_type": "boost_number",
-      "value": 40,
+      "value": 20,
       "trait_type": "Money"
     }
   ]

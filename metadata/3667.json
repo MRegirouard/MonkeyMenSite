@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3667.png",
   "tokenId": 3667,
-  "name": "Monkey Men #3667 - Shooter | Score: 41 | Rarity: Common",
+  "name": "Monkey Men #3667 - Flurry | Score: 150 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4837,
+      "value": 2102,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 41,
+      "value": 150,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
@@ -40,19 +40,19 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Orange Sneakers",
+      "value": "Pink Slippers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Flower",
       "trait_type": "Left Hand"
     },
     {
@@ -68,12 +68,7 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "trait_type": "Temperature"
     }
   ]
 }

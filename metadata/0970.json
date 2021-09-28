@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/970.png",
   "tokenId": 970,
-  "name": "Monkey Men #970 - Apollodoros | Score: 78 | Rarity: Common",
+  "name": "Monkey Men #970 - Sushi | Score: 119 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 4097,
+      "value": 2927,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 78,
+      "value": 119,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Rope",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
@@ -44,21 +44,21 @@
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4798.png",
   "tokenId": 4798,
-  "name": "Monkey Men #4798 - Avinash | Score: 218 | Rarity: Common",
+  "name": "Monkey Men #4798 - Lily | Score: 16 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 761,
+      "value": 4917,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 218,
+      "value": 16,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
@@ -52,13 +52,13 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

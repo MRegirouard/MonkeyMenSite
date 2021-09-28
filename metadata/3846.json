@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3846.png",
   "tokenId": 3846,
-  "name": "Monkey Men #3846 - Kanon | Score: 297 | Rarity: Common",
+  "name": "Monkey Men #3846 - Nemo | Score: 177 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 174,
+      "value": 1506,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 297,
+      "value": 177,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
@@ -63,7 +63,17 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 15,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

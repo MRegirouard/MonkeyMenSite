@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/2285.png",
   "tokenId": 2285,
-  "name": "Monkey Men #2285 - Mukhamed | Score: 101 | Rarity: Common",
+  "name": "Monkey Men #2285 - Endor | Score: 55 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3478,
+      "value": 4475,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 101,
+      "value": 55,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,41 +24,51 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 10,
-      "trait_type": "Charm"
+      "trait_type": "Style"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

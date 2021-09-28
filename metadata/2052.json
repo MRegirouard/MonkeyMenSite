@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2052.png",
   "tokenId": 2052,
-  "name": "Monkey Men #2052 - Shakira | Score: 97 | Rarity: Common",
+  "name": "Monkey Men #2052 - Picasso | Score: 127 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3584,
+      "value": 2728,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 97,
+      "value": 127,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Red",
       "trait_type": "Background"
     },
     {
@@ -32,27 +32,27 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Banana",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
@@ -64,6 +64,11 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

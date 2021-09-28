@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2119.png",
   "tokenId": 2119,
-  "name": "Monkey Men #2119 - Milkshake | Score: 235 | Rarity: Common",
+  "name": "Monkey Men #2119 - Antonije | Score: 138 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 596,
+      "value": 2551,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 235,
+      "value": 138,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Magic Wand",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Winter Boots",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -59,11 +59,6 @@
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",

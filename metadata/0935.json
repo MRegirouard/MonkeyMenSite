@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/935.png",
   "tokenId": 935,
-  "name": "Monkey Men #935 - Pockets | Score: 115 | Rarity: Common",
+  "name": "Monkey Men #935 - Stewy | Score: 41 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 2997,
+      "value": 4808,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 115,
+      "value": 41,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Vine",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
@@ -44,7 +44,7 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
@@ -52,7 +52,7 @@
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -64,6 +64,11 @@
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2485.png",
   "tokenId": 2485,
-  "name": "Monkey Men #2485 - Spunk | Score: 97 | Rarity: Common",
+  "name": "Monkey Men #2485 - Flopsy | Score: 286 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3574,
+      "value": 206,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 97,
+      "value": 286,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,15 +32,15 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Coconut",
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Blue Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -66,9 +66,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 40,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

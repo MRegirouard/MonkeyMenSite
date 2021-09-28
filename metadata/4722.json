@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4722.png",
   "tokenId": 4722,
-  "name": "Monkey Men #4722 - Mustang | Score: 165 | Rarity: Common",
+  "name": "Monkey Men #4722 - Yuhanna | Score: 181 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1863,
+      "value": 1336,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 165,
+      "value": 181,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,45 +24,50 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Health"
     }
   ]

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3258.png",
   "tokenId": 3258,
-  "name": "Monkey Men #3258 - Egbert | Score: 103 | Rarity: Common",
+  "name": "Monkey Men #3258 - Ion | Score: 210 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3452,
+      "value": 857,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 103,
+      "value": 210,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,46 +24,41 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
+      "value": 10,
+      "trait_type": "Strength"
     }
   ]
 }

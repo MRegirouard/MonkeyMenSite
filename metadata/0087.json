@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/87.png",
   "tokenId": 87,
-  "name": "Monkey Men #87 - Cezara | Score: 107 | Rarity: Common",
+  "name": "Monkey Men #87 - Wanyonyi | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,7 +9,7 @@
     },
     {
       "display_type": "number",
-      "value": 3407,
+      "value": 3344,
       "trait_type": "Rank"
     },
     {
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -40,7 +40,7 @@
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Money",
       "trait_type": "Left Hand"
     },
     {
@@ -63,12 +63,22 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Health"
+    },
+    {
+      "display_type": "boost_number",
+      "value": 20,
+      "trait_type": "Money"
     }
   ]
 }

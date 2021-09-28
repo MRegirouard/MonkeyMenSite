@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4612.png",
   "tokenId": 4612,
-  "name": "Monkey Men #4612 - Hennessy | Score: 212 | Rarity: Common",
+  "name": "Monkey Men #4612 - Theodora | Score: 90 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 844,
+      "value": 3686,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 212,
+      "value": 90,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
@@ -32,23 +32,23 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -61,9 +61,14 @@
       "trait_type": "Style"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Strength"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

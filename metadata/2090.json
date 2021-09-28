@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/2090.png",
   "tokenId": 2090,
-  "name": "Monkey Men #2090 - Prissy | Score: 158 | Rarity: Common",
+  "name": "Monkey Men #2090 - Megan | Score: 195 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1918,
+      "value": 1113,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 158,
+      "value": 195,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,23 +24,23 @@
       "trait_type": "Number"
     },
     {
-      "value": "Pink",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Rope",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Coconut",
       "trait_type": "Left Hand"
     },
     {
@@ -68,6 +68,11 @@
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 15,
       "trait_type": "Strength"
     },
     {

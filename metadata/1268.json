@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1268.png",
   "tokenId": 1268,
-  "name": "Monkey Men #1268 - Sassie | Score: 133 | Rarity: Common",
+  "name": "Monkey Men #1268 - Fendi | Score: 146 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 2668,
+      "value": 2234,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 133,
+      "value": 146,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,42 +28,42 @@
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Magic Wand",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Blue Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Leaf",
+      "value": "Balloon",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Charm"
+      "value": 5,
+      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Style"
+      "value": 5,
+      "trait_type": "Strength"
     }
   ]
 }

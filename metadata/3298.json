@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3298.png",
   "tokenId": 3298,
-  "name": "Monkey Men #3298 - Faysal | Score: 43 | Rarity: Common",
+  "name": "Monkey Men #3298 - Onie | Score: 43 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,7 +9,7 @@
     },
     {
       "display_type": "number",
-      "value": 4748,
+      "value": 4759,
       "trait_type": "Rank"
     },
     {
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
@@ -40,25 +40,20 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
       "value": "Leaf",
       "trait_type": "Left Hand"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

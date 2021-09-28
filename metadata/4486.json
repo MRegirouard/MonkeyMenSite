@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4486.png",
   "tokenId": 4486,
-  "name": "Monkey Men #4486 - Xandra | Score: 284 | Rarity: Common",
+  "name": "Monkey Men #4486 - Benson | Score: 266 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 220,
+      "value": 347,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 284,
+      "value": 266,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,31 +28,31 @@
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Balloon",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
@@ -63,12 +63,12 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
+      "value": 10,
+      "trait_type": "Strength"
     }
   ]
 }

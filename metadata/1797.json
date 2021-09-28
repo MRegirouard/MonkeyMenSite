@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1797.png",
   "tokenId": 1797,
-  "name": "Monkey Men #1797 - Maynard | Score: 185 | Rarity: Common",
+  "name": "Monkey Men #1797 - Talbot | Score: 148 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1262,
+      "value": 2159,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 185,
+      "value": 148,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,27 +28,27 @@
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Vine",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Cowboy",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
@@ -58,16 +58,11 @@
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Temperature"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
       "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Health"
     }
   ]

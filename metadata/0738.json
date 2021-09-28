@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/738.png",
   "tokenId": 738,
-  "name": "Monkey Men #738 - Emi | Score: 237 | Rarity: Common",
+  "name": "Monkey Men #738 - Moog | Score: 317 | Rarity: Ultimate",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Ultimate",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 574,
+      "value": 107,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 237,
+      "value": 317,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,27 +32,27 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "Gray Sweat Pants",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Gray Tank Top",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Grapes",
       "trait_type": "Left Hand"
     },
     {
@@ -68,6 +68,11 @@
     {
       "display_type": "boost_percent",
       "value": 5,
+      "trait_type": "Temperature"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 10,
       "trait_type": "Strength"
     },
     {

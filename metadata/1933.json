@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1933.png",
   "tokenId": 1933,
-  "name": "Monkey Men #1933 - Silver | Score: 82 | Rarity: Common",
+  "name": "Monkey Men #1933 - Marley | Score: 82 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,7 +9,7 @@
     },
     {
       "display_type": "number",
-      "value": 3865,
+      "value": 3866,
       "trait_type": "Rank"
     },
     {
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Yellow-Pink",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
@@ -48,16 +48,16 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {
-      "value": "Phone",
+      "value": "Empty",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 15,
       "trait_type": "Style"
     },
     {

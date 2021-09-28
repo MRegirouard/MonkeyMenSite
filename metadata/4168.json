@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4168.png",
   "tokenId": 4168,
-  "name": "Monkey Men #4168 - Anabelle | Score: 252 | Rarity: Common",
+  "name": "Monkey Men #4168 - Cassie | Score: 223 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 410,
+      "value": 652,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 252,
+      "value": 223,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -36,7 +36,7 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Beanie",
+      "value": "Propeller",
       "trait_type": "Hat"
     },
     {
@@ -48,27 +48,17 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Money",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
+      "value": 5,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Temperature"
     },
     {
       "display_type": "boost_percent",
@@ -76,9 +66,9 @@
       "trait_type": "Strength"
     },
     {
-      "display_type": "boost_number",
-      "value": 20,
-      "trait_type": "Money"
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/258.png",
   "tokenId": 258,
-  "name": "Monkey Men #258 - Corrie | Score: 313 | Rarity: Common",
+  "name": "Monkey Men #258 - Voltron | Score: 272 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 105,
+      "value": 307,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 313,
+      "value": 272,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,15 +24,15 @@
       "trait_type": "Number"
     },
     {
-      "value": "Purple-Blue",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "None",
+      "value": "Sunglasses",
       "trait_type": "Glasses"
     },
     {
-      "value": "Coconut",
+      "value": "Phone",
       "trait_type": "Right Hand"
     },
     {
@@ -40,15 +40,15 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Winter Boots",
       "trait_type": "Shoes"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 20,
       "trait_type": "Style"
     },
     {
@@ -66,18 +66,8 @@
       "trait_type": "Temperature"
     },
     {
-      "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Strength"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Health"
-    },
-    {
       "display_type": "boost_number",
-      "value": 20,
+      "value": 40,
       "trait_type": "Money"
     }
   ]

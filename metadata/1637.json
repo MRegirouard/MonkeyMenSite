@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1637.png",
   "tokenId": 1637,
-  "name": "Monkey Men #1637 - Brandy | Score: 210 | Rarity: Common",
+  "name": "Monkey Men #1637 - Aretha | Score: 181 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 871,
+      "value": 1369,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 210,
+      "value": 181,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Monacle",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Rainbow",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Red Sneakers",
       "trait_type": "Shoes"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
-      "trait_type": "Charm"
+      "value": 5,
+      "trait_type": "Style"
     }
   ]
 }

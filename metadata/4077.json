@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4077.png",
   "tokenId": 4077,
-  "name": "Monkey Men #4077 - Winifred | Score: 228 | Rarity: Common",
+  "name": "Monkey Men #4077 - Yasmin | Score: 16 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 652,
+      "value": 4926,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 228,
+      "value": 16,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Blue-Green",
+      "value": "Yellow",
       "trait_type": "Background"
     },
     {
-      "value": "Sunglasses",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
@@ -40,7 +40,7 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
@@ -48,11 +48,11 @@
       "trait_type": "Shirt"
     },
     {
-      "value": "Pink Slippers",
+      "value": "Work Boots",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 10,
-      "trait_type": "Temperature"
+      "value": 5,
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

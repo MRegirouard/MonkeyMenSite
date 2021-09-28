@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/563.png",
   "tokenId": 563,
-  "name": "Monkey Men #563 - Ariella | Score: 196 | Rarity: Common",
+  "name": "Monkey Men #563 - Rick | Score: 171 | Rarity: Elite",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Elite",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 1126,
+      "value": 1645,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 196,
+      "value": 171,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,11 +24,11 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Cyan",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
@@ -36,34 +36,34 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Fez",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Jeans",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Tennis",
+      "value": "Green Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Charm"
+      "value": 10,
+      "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
+      "trait_type": "Health"
     },
     {
       "display_type": "boost_number",

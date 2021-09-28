@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/856.png",
   "tokenId": 856,
-  "name": "Monkey Men #856 - Remy | Score: 377 | Rarity: Common",
+  "name": "Monkey Men #856 - Lex | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 17,
+      "value": 3400,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 377,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,31 +24,31 @@
       "trait_type": "Number"
     },
     {
-      "value": "Green-Yellow",
+      "value": "Orange",
       "trait_type": "Background"
     },
     {
-      "value": "Red",
+      "value": "Regular",
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Empty",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Top Hat",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
-      "value": "Jeans",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "White",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
@@ -59,16 +59,6 @@
       "display_type": "boost_percent",
       "value": 10,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",

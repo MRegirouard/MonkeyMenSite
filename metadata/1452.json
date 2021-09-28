@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/1452.png",
   "tokenId": 1452,
-  "name": "Monkey Men #1452 - Crash | Score: 226 | Rarity: Common",
+  "name": "Monkey Men #1452 - Edmonde | Score: 237 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 683,
+      "value": 561,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 226,
+      "value": 237,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,7 +32,7 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Leaf",
       "trait_type": "Right Hand"
     },
     {
@@ -40,30 +40,25 @@
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "White",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "None",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Flower",
+      "value": "Balloon",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
       "trait_type": "Charm"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Style"
     }
   ]
 }

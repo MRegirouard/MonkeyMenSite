@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/3161.png",
   "tokenId": 3161,
-  "name": "Monkey Men #3161 - Snoopy | Score: 295 | Rarity: Common",
+  "name": "Monkey Men #3161 - Dushyanta | Score: 233 | Rarity: Legendary",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Legendary",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 179,
+      "value": 593,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 295,
+      "value": 233,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,27 +24,27 @@
       "trait_type": "Number"
     },
     {
-      "value": "Red",
+      "value": "Green",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Phone",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Cowboy",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Gray Tank Top",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
@@ -57,17 +57,22 @@
     },
     {
       "display_type": "boost_percent",
-      "value": 15,
+      "value": 5,
+      "trait_type": "Charm"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
       "trait_type": "Style"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Strength"
+      "trait_type": "Health"
     },
     {
       "display_type": "boost_number",
-      "value": 40,
+      "value": 20,
       "trait_type": "Money"
     }
   ]

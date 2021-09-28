@@ -1,20 +1,20 @@
 {
   "image": "192.168.0.56:8081/monkeys/4099.png",
   "tokenId": 4099,
-  "name": "Monkey Men #4099 - Mister | Score: 82 | Rarity: Common",
+  "name": "Monkey Men #4099 - Stephan | Score: 140 | Rarity: Rare",
   "attributes": [
     {
-      "value": "Common",
+      "value": "Rare",
       "trait_type": "Rarity"
     },
     {
       "display_type": "number",
-      "value": 3854,
+      "value": 2387,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 82,
+      "value": 140,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,23 +28,23 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Monacle",
       "trait_type": "Glasses"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bowler",
+      "value": "Beanie",
       "trait_type": "Hat"
     },
     {
-      "value": "Gray Sweat Pants",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "None",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {

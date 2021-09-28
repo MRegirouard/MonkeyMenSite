@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/3395.png",
   "tokenId": 3395,
-  "name": "Monkey Men #3395 - Dominic | Score: 239 | Rarity: Common",
+  "name": "Monkey Men #3395 - Lyla | Score: 99 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 556,
+      "value": 3516,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 239,
+      "value": 99,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,7 +24,7 @@
       "trait_type": "Number"
     },
     {
-      "value": "Cyan",
+      "value": "Pink",
       "trait_type": "Background"
     },
     {
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Banana",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Fez",
+      "value": "Bowler",
       "trait_type": "Hat"
     },
     {
@@ -44,11 +44,11 @@
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "Blue",
       "trait_type": "Shirt"
     },
     {
-      "value": "Dress Shoes",
+      "value": "None",
       "trait_type": "Shoes"
     },
     {

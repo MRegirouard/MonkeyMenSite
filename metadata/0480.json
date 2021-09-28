@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/480.png",
   "tokenId": 480,
-  "name": "Monkey Men #480 - Georgine | Score: 57 | Rarity: Common",
+  "name": "Monkey Men #480 - Codi | Score: 74 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 4451,
+      "value": 4171,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 57,
+      "value": 74,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -36,29 +36,29 @@
       "trait_type": "Right Hand"
     },
     {
-      "value": "None",
+      "value": "Top Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "None",
+      "value": "Black",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Red Sneakers",
+      "value": "Tennis",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
-      "trait_type": "Strength"
+      "value": 10,
+      "trait_type": "Charm"
     },
     {
       "display_type": "boost_percent",

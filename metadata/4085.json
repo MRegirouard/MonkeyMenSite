@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4085.png",
   "tokenId": 4085,
-  "name": "Monkey Men #4085 - Marine | Score: 193 | Rarity: Common",
+  "name": "Monkey Men #4085 - Silver | Score: 12 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 1156,
+      "value": 4975,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 193,
+      "value": 12,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -28,41 +28,36 @@
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "None",
       "trait_type": "Glasses"
     },
     {
-      "value": "Empty",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "None",
       "trait_type": "Hat"
     },
     {
-      "value": "Rainbow",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Red",
+      "value": "None",
       "trait_type": "Shirt"
     },
     {
-      "value": "Work Boots",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Coconut",
+      "value": "Leaf",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Style"
-    },
-    {
-      "display_type": "boost_percent",
-      "value": 10,
       "trait_type": "Strength"
     },
     {

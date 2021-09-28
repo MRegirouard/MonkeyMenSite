@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/1561.png",
   "tokenId": 1561,
-  "name": "Monkey Men #1561 - Yolotl | Score: 297 | Rarity: Common",
+  "name": "Monkey Men #1561 - Kona | Score: 107 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 168,
+      "value": 3364,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 297,
+      "value": 107,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -24,45 +24,45 @@
       "trait_type": "Number"
     },
     {
-      "value": "Orange-Red",
+      "value": "Purple",
       "trait_type": "Background"
     },
     {
-      "value": "Regular",
+      "value": "Red",
       "trait_type": "Glasses"
     },
     {
-      "value": "Bird",
+      "value": "Banana",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Baseball Cap",
+      "value": "Bucket Hat",
       "trait_type": "Hat"
     },
     {
-      "value": "Black",
+      "value": "None",
       "trait_type": "Pants"
     },
     {
-      "value": "Blue",
+      "value": "Red",
       "trait_type": "Shirt"
     },
     {
-      "value": "Green Sneakers",
+      "value": "Orange Sneakers",
       "trait_type": "Shoes"
     },
     {
-      "value": "Apple",
+      "value": "Banana",
       "trait_type": "Left Hand"
     },
     {
       "display_type": "boost_percent",
       "value": 5,
-      "trait_type": "Charm"
+      "trait_type": "Strength"
     },
     {
       "display_type": "boost_percent",
-      "value": 5,
+      "value": 10,
       "trait_type": "Health"
     }
   ]

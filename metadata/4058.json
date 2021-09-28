@@ -1,7 +1,7 @@
 {
   "image": "192.168.0.56:8081/monkeys/4058.png",
   "tokenId": 4058,
-  "name": "Monkey Men #4058 - Yehuda | Score: 90 | Rarity: Common",
+  "name": "Monkey Men #4058 - Bosley | Score: 51 | Rarity: Common",
   "attributes": [
     {
       "value": "Common",
@@ -9,12 +9,12 @@
     },
     {
       "display_type": "number",
-      "value": 3721,
+      "value": 4575,
       "trait_type": "Rank"
     },
     {
       "display_type": "number",
-      "value": 90,
+      "value": 51,
       "trait_type": "Score",
       "max_value": 800
     },
@@ -32,11 +32,11 @@
       "trait_type": "Glasses"
     },
     {
-      "value": "Leaf",
+      "value": "Apple",
       "trait_type": "Right Hand"
     },
     {
-      "value": "Bucket Hat",
+      "value": "Baseball Cap",
       "trait_type": "Hat"
     },
     {
@@ -54,6 +54,11 @@
     {
       "value": "Flower",
       "trait_type": "Left Hand"
+    },
+    {
+      "display_type": "boost_percent",
+      "value": 5,
+      "trait_type": "Health"
     }
   ]
 }
